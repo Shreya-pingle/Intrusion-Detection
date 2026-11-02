@@ -1,0 +1,1748 @@
+[2025-11-01T18:43:45.562310] - [SIGNATURE] - Source IP: 10.0.0.7 | Details: Attack: SQL Injection, Payload: union select
+[2025-11-01T18:43:50.471762] - [PORT_SCAN] - Source IP: 192.168.1.197 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:43:51.229951] - [PORT_SCAN] - Source IP: 192.168.1.236 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:43:54.269631] - [SIGNATURE] - Source IP: 10.0.0.7 | Details: Attack: SQL Injection, Payload: ' OR 1=1 --
+[2025-11-01T18:43:55.545335] - [PORT_SCAN] - Source IP: 192.168.1.123 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:43:56.405126] - [PORT_SCAN] - Source IP: 192.168.1.176 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:43:56.506414] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: Command Injection, Payload: cmd.exe
+[2025-11-01T18:43:57.062996] - [PORT_SCAN] - Source IP: 192.168.1.78 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:43:57.316170] - [PORT_SCAN] - Source IP: 192.168.1.35 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:43:57.673990] - [SIGNATURE] - Source IP: 10.0.0.7 | Details: Attack: Command Injection, Payload: cmd.exe
+[2025-11-01T18:43:59.849757] - [SIGNATURE] - Source IP: 10.0.0.5 | Details: Attack: SQL Injection, Payload: ' OR 1=1 --
+[2025-11-01T18:43:59.900186] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: Command Injection, Payload: cmd.exe
+[2025-11-01T18:44:02.531825] - [PORT_SCAN] - Source IP: 192.168.1.39 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:02.633231] - [PORT_SCAN] - Source IP: 192.168.1.204 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:03.341402] - [DOS] - Source IP: 192.168.1.66 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:03.997832] - [PORT_SCAN] - Source IP: 192.168.1.11 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:04.908621] - [SIGNATURE] - Source IP: 10.0.0.7 | Details: Attack: PHP Code Injection, Payload: base64_decode
+[2025-11-01T18:44:05.263642] - [DOS] - Source IP: 192.168.1.66 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:05.314179] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:05.314247] - [PORT_SCAN] - Source IP: 192.168.1.11 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:06.882110] - [DOS] - Source IP: 192.168.1.145 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:07.236741] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: SQL Injection, Payload: union select
+[2025-11-01T18:44:07.598923] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:07.598970] - [PORT_SCAN] - Source IP: 192.168.1.11 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:08.558191] - [PORT_SCAN] - Source IP: 192.168.1.71 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:09.934001] - [DOS] - Source IP: 192.168.1.93 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:10.287132] - [DOS] - Source IP: 192.168.1.39 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:10.994857] - [DOS] - Source IP: 192.168.1.71 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:10.994911] - [PORT_SCAN] - Source IP: 192.168.1.71 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:12.058283] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:12.614943] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:12.766869] - [DOS] - Source IP: 192.168.1.214 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:12.969095] - [DOS] - Source IP: 192.168.1.71 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:12.969147] - [PORT_SCAN] - Source IP: 192.168.1.71 | Details: Unique Ports: 6 in 10.0s
+[2025-11-01T18:44:13.069791] - [PORT_SCAN] - Source IP: 192.168.1.47 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:13.170988] - [DOS] - Source IP: 192.168.1.135 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:13.322388] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: SQL Injection, Payload: DROP TABLE
+[2025-11-01T18:44:13.473840] - [DOS] - Source IP: 192.168.1.112 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:13.878551] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:13.929161] - [DOS] - Source IP: 10.0.0.7 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:13.981083] - [DOS] - Source IP: 192.168.1.113 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:14.132249] - [DOS] - Source IP: 192.168.1.71 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:14.132323] - [PORT_SCAN] - Source IP: 192.168.1.71 | Details: Unique Ports: 6 in 10.0s
+[2025-11-01T18:44:15.041736] - [PORT_SCAN] - Source IP: 192.168.1.127 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:15.649819] - [DOS] - Source IP: 192.168.1.123 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:15.751213] - [DOS] - Source IP: 192.168.1.145 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:16.256338] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:16.509131] - [DOS] - Source IP: 192.168.1.64 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:16.610504] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:16.660968] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:16.661022] - [PORT_SCAN] - Source IP: 192.168.1.246 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:16.711532] - [DOS] - Source IP: 192.168.1.194 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:16.812258] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:16.913218] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:16.913273] - [PORT_SCAN] - Source IP: 192.168.1.246 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:17.216619] - [DOS] - Source IP: 192.168.1.231 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:17.772710] - [DOS] - Source IP: 192.168.1.3 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:17.772765] - [PORT_SCAN] - Source IP: 192.168.1.3 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:17.873584] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:17.873644] - [PORT_SCAN] - Source IP: 192.168.1.121 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:18.126355] - [DOS] - Source IP: 192.168.1.135 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:18.277983] - [DOS] - Source IP: 192.168.1.23 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:18.378814] - [DOS] - Source IP: 192.168.1.197 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:18.631169] - [DOS] - Source IP: 192.168.1.135 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:18.732251] - [DOS] - Source IP: 192.168.1.186 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:18.883901] - [DOS] - Source IP: 192.168.1.47 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:19.086262] - [DOS] - Source IP: 192.168.1.66 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:19.545463] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:19.847910] - [DOS] - Source IP: 192.168.1.186 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:20.001488] - [DOS] - Source IP: 192.168.1.204 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:20.354960] - [DOS] - Source IP: 192.168.1.135 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:20.355016] - [PORT_SCAN] - Source IP: 192.168.1.135 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:20.607736] - [DOS] - Source IP: 192.168.1.76 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:20.708985] - [DOS] - Source IP: 192.168.1.123 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:20.759658] - [DOS] - Source IP: 192.168.1.106 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:20.860894] - [DOS] - Source IP: 192.168.1.3 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:20.860941] - [PORT_SCAN] - Source IP: 192.168.1.3 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:20.911213] - [DOS] - Source IP: 192.168.1.35 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:21.063600] - [DOS] - Source IP: 192.168.1.39 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:21.214585] - [DOS] - Source IP: 192.168.1.245 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:21.518211] - [DOS] - Source IP: 192.168.1.135 | Details: Count: 10 in 60.0s
+[2025-11-01T18:44:21.518274] - [PORT_SCAN] - Source IP: 192.168.1.135 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:21.619850] - [DOS] - Source IP: 192.168.1.214 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:21.972863] - [DOS] - Source IP: 192.168.1.191 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:22.073581] - [DOS] - Source IP: 192.168.1.58 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:22.528222] - [DOS] - Source IP: 192.168.1.64 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:22.578969] - [DOS] - Source IP: 192.168.1.231 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:22.679919] - [DOS] - Source IP: 192.168.1.170 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:22.730589] - [DOS] - Source IP: 192.168.1.47 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:22.780932] - [SIGNATURE] - Source IP: 10.0.0.7 | Details: Attack: SQL Injection, Payload: union select
+[2025-11-01T18:44:22.780978] - [DOS] - Source IP: 10.0.0.7 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:23.033632] - [DOS] - Source IP: 192.168.1.53 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:23.235168] - [DOS] - Source IP: 192.168.1.113 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:23.538504] - [DOS] - Source IP: 192.168.1.98 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:23.691152] - [DOS] - Source IP: 192.168.1.113 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:23.794959] - [DOS] - Source IP: 192.168.1.176 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:23.946728] - [DOS] - Source IP: 192.168.1.81 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:24.048102] - [DOS] - Source IP: 192.168.1.64 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:24.199834] - [DOS] - Source IP: 192.168.1.16 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:24.250658] - [DOS] - Source IP: 192.168.1.135 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:24.250709] - [PORT_SCAN] - Source IP: 192.168.1.135 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:24.402028] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:24.452832] - [DOS] - Source IP: 192.168.1.224 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:24.553940] - [DOS] - Source IP: 192.168.1.94 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:24.908487] - [DOS] - Source IP: 192.168.1.237 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:24.959288] - [DOS] - Source IP: 192.168.1.244 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:25.211833] - [DOS] - Source IP: 172.16.0.100 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:25.364261] - [DOS] - Source IP: 192.168.1.244 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:25.667693] - [DOS] - Source IP: 192.168.1.93 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:25.920691] - [DOS] - Source IP: 192.168.1.236 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:25.971368] - [DOS] - Source IP: 192.168.1.135 | Details: Count: 12 in 60.0s
+[2025-11-01T18:44:25.971423] - [PORT_SCAN] - Source IP: 192.168.1.135 | Details: Unique Ports: 6 in 10.0s
+[2025-11-01T18:44:26.022186] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:26.274644] - [DOS] - Source IP: 192.168.1.174 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:26.488077] - [DOS] - Source IP: 192.168.1.174 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:26.589151] - [DOS] - Source IP: 192.168.1.94 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:26.791353] - [PORT_SCAN] - Source IP: 192.168.1.217 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:26.841922] - [DOS] - Source IP: 192.168.1.94 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:27.045029] - [DOS] - Source IP: 192.168.1.156 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:27.247922] - [DOS] - Source IP: 192.168.1.204 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:27.601883] - [DOS] - Source IP: 192.168.1.25 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:27.652324] - [DOS] - Source IP: 192.168.1.113 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:27.904610] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:28.005742] - [DOS] - Source IP: 192.168.1.71 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:28.157593] - [DOS] - Source IP: 192.168.1.71 | Details: Count: 10 in 60.0s
+[2025-11-01T18:44:28.970253] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:29.071491] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:29.121985] - [DOS] - Source IP: 172.16.0.99 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:29.172724] - [DOS] - Source IP: 192.168.1.244 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:29.172786] - [PORT_SCAN] - Source IP: 192.168.1.244 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:29.223167] - [DOS] - Source IP: 192.168.1.86 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:29.274315] - [DOS] - Source IP: 192.168.1.112 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:29.324992] - [DOS] - Source IP: 192.168.1.53 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:29.476592] - [DOS] - Source IP: 192.168.1.169 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:29.527199] - [DOS] - Source IP: 192.168.1.86 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:29.830325] - [DOS] - Source IP: 192.168.1.176 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:30.184583] - [DOS] - Source IP: 192.168.1.231 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:30.235075] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:30.336119] - [DOS] - Source IP: 192.168.1.81 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:30.437042] - [DOS] - Source IP: 192.168.1.111 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:30.488237] - [DOS] - Source IP: 192.168.1.191 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:30.640120] - [DOS] - Source IP: 192.168.1.106 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:30.690628] - [DOS] - Source IP: 192.168.1.93 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:30.994061] - [DOS] - Source IP: 192.168.1.58 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:31.095053] - [DOS] - Source IP: 192.168.1.145 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:31.145953] - [DOS] - Source IP: 192.168.1.93 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:31.297974] - [DOS] - Source IP: 192.168.1.218 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:31.399185] - [DOS] - Source IP: 192.168.1.66 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:31.449895] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 10 in 60.0s
+[2025-11-01T18:44:31.702488] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:31.753194] - [DOS] - Source IP: 192.168.1.47 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:32.006957] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:32.107936] - [DOS] - Source IP: 192.168.1.236 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:32.260552] - [DOS] - Source IP: 192.168.1.23 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:32.361665] - [DOS] - Source IP: 192.168.1.151 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:32.514868] - [DOS] - Source IP: 192.168.1.86 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:32.514927] - [PORT_SCAN] - Source IP: 192.168.1.86 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:32.616094] - [DOS] - Source IP: 192.168.1.35 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:32.717368] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:32.970223] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:33.224086] - [DOS] - Source IP: 192.168.1.47 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:33.375874] - [DOS] - Source IP: 192.168.1.94 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:33.375939] - [PORT_SCAN] - Source IP: 192.168.1.94 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:33.426516] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:33.630003] - [DOS] - Source IP: 192.168.1.158 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:33.680432] - [DOS] - Source IP: 192.168.1.16 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:33.781750] - [DOS] - Source IP: 192.168.1.248 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:33.882466] - [DOS] - Source IP: 192.168.1.29 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:33.933029] - [DOS] - Source IP: 192.168.1.53 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:34.084667] - [DOS] - Source IP: 192.168.1.169 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:34.185703] - [DOS] - Source IP: 192.168.1.186 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:34.286762] - [DOS] - Source IP: 192.168.1.131 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:34.640598] - [DOS] - Source IP: 192.168.1.151 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:34.742179] - [DOS] - Source IP: 192.168.1.58 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:34.843179] - [DOS] - Source IP: 192.168.1.77 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:34.893830] - [DOS] - Source IP: 192.168.1.98 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:34.995581] - [DOS] - Source IP: 192.168.1.46 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:35.046362] - [DOS] - Source IP: 192.168.1.116 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:35.349560] - [DOS] - Source IP: 192.168.1.194 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:35.501107] - [DOS] - Source IP: 192.168.1.197 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:35.804220] - [DOS] - Source IP: 192.168.1.76 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:36.057310] - [DOS] - Source IP: 192.168.1.197 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:36.107901] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: PHP Code Injection, Payload: base64_decode
+[2025-11-01T18:44:36.107956] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:36.311242] - [DOS] - Source IP: 192.168.1.204 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:36.413331] - [DOS] - Source IP: 192.168.1.248 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:36.413403] - [PORT_SCAN] - Source IP: 192.168.1.248 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:36.768766] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:36.870338] - [DOS] - Source IP: 192.168.1.71 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:37.174420] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:37.226095] - [DOS] - Source IP: 192.168.1.151 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:37.327284] - [DOS] - Source IP: 192.168.1.172 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:37.480499] - [DOS] - Source IP: 192.168.1.81 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:37.530973] - [DOS] - Source IP: 192.168.1.116 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:37.581448] - [DOS] - Source IP: 192.168.1.107 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:37.581499] - [PORT_SCAN] - Source IP: 192.168.1.107 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:37.784495] - [DOS] - Source IP: 192.168.1.175 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:37.935935] - [DOS] - Source IP: 192.168.1.107 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:37.935995] - [PORT_SCAN] - Source IP: 192.168.1.107 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:37.986524] - [DOS] - Source IP: 192.168.1.110 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:38.037171] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:38.138145] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:38.239352] - [DOS] - Source IP: 192.168.1.84 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:38.290142] - [DOS] - Source IP: 192.168.1.217 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:38.340748] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 10 in 60.0s
+[2025-11-01T18:44:38.492021] - [DOS] - Source IP: 192.168.1.143 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:38.542833] - [DOS] - Source IP: 192.168.1.125 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:38.744844] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:38.795442] - [DOS] - Source IP: 192.168.1.91 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:38.896576] - [DOS] - Source IP: 192.168.1.117 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:39.048296] - [DOS] - Source IP: 192.168.1.20 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:39.149529] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 10 in 60.0s
+[2025-11-01T18:44:39.351095] - [DOS] - Source IP: 192.168.1.142 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:39.401787] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:39.502882] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:39.553409] - [DOS] - Source IP: 192.168.1.25 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:39.857070] - [DOS] - Source IP: 192.168.1.38 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:39.958330] - [DOS] - Source IP: 192.168.1.131 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:40.008987] - [DOS] - Source IP: 192.168.1.169 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:40.059528] - [DOS] - Source IP: 192.168.1.79 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:40.160791] - [DOS] - Source IP: 192.168.1.175 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:40.261716] - [DOS] - Source IP: 192.168.1.20 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:40.413372] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: SQL Injection, Payload: DROP TABLE
+[2025-11-01T18:44:40.413421] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:40.665826] - [DOS] - Source IP: 192.168.1.248 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:40.665882] - [PORT_SCAN] - Source IP: 192.168.1.248 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:40.716463] - [DOS] - Source IP: 192.168.1.35 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:40.766854] - [DOS] - Source IP: 192.168.1.76 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:40.817372] - [DOS] - Source IP: 192.168.1.138 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:41.171520] - [DOS] - Source IP: 192.168.1.111 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:41.373741] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:41.373797] - [PORT_SCAN] - Source IP: 192.168.1.14 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:41.474991] - [DOS] - Source IP: 192.168.1.186 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:41.525565] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:41.575925] - [DOS] - Source IP: 192.168.1.106 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:41.779158] - [DOS] - Source IP: 192.168.1.186 | Details: Count: 10 in 60.0s
+[2025-11-01T18:44:41.880296] - [DOS] - Source IP: 192.168.1.151 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:41.880353] - [PORT_SCAN] - Source IP: 192.168.1.151 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:41.931074] - [DOS] - Source IP: 192.168.1.244 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:41.981546] - [DOS] - Source IP: 192.168.1.77 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:42.032151] - [DOS] - Source IP: 192.168.1.186 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:42.032229] - [PORT_SCAN] - Source IP: 192.168.1.186 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:42.082776] - [DOS] - Source IP: 192.168.1.237 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:42.133442] - [DOS] - Source IP: 192.168.1.113 | Details: Count: 10 in 60.0s
+[2025-11-01T18:44:42.234739] - [DOS] - Source IP: 192.168.1.147 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:42.336058] - [DOS] - Source IP: 192.168.1.204 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:42.437417] - [DOS] - Source IP: 192.168.1.245 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:42.538495] - [DOS] - Source IP: 192.168.1.162 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:42.589027] - [DOS] - Source IP: 192.168.1.164 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:42.791112] - [DOS] - Source IP: 192.168.1.174 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:42.841518] - [DOS] - Source IP: 192.168.1.73 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:42.892137] - [DOS] - Source IP: 192.168.1.220 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:42.892194] - [PORT_SCAN] - Source IP: 192.168.1.220 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:42.942947] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:43.043853] - [DOS] - Source IP: 192.168.1.164 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:43.043908] - [PORT_SCAN] - Source IP: 192.168.1.164 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:43.094279] - [DOS] - Source IP: 192.168.1.110 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:43.246002] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:43.346810] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 10 in 60.0s
+[2025-11-01T18:44:43.397517] - [DOS] - Source IP: 192.168.1.64 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:43.599890] - [DOS] - Source IP: 192.168.1.117 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:43.701046] - [DOS] - Source IP: 192.168.1.174 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:43.751710] - [DOS] - Source IP: 192.168.1.73 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:44.005029] - [DOS] - Source IP: 192.168.1.71 | Details: Count: 12 in 60.0s
+[2025-11-01T18:44:44.055786] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:44.156603] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:44.308106] - [DOS] - Source IP: 192.168.1.248 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:44.358845] - [DOS] - Source IP: 192.168.1.224 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:44.459814] - [SIGNATURE] - Source IP: 10.0.0.5 | Details: Attack: Command Injection, Payload: cmd.exe
+[2025-11-01T18:44:44.611737] - [DOS] - Source IP: 192.168.1.176 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:44.713157] - [DOS] - Source IP: 192.168.1.194 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:44.813940] - [DOS] - Source IP: 192.168.1.220 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:44.814024] - [PORT_SCAN] - Source IP: 192.168.1.220 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:44.864840] - [DOS] - Source IP: 192.168.1.138 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:44.965740] - [DOS] - Source IP: 192.168.1.94 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:45.016443] - [DOS] - Source IP: 192.168.1.25 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:45.168392] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:45.168460] - [PORT_SCAN] - Source IP: 192.168.1.14 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:45.219295] - [DOS] - Source IP: 192.168.1.93 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:45.320626] - [DOS] - Source IP: 192.168.1.151 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:45.371485] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:45.472465] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 12 in 60.0s
+[2025-11-01T18:44:45.573713] - [DOS] - Source IP: 192.168.1.161 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:45.675168] - [DOS] - Source IP: 192.168.1.172 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:45.725745] - [DOS] - Source IP: 192.168.1.164 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:45.725808] - [PORT_SCAN] - Source IP: 192.168.1.164 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:45.827436] - [DOS] - Source IP: 192.168.1.38 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:46.080347] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 13 in 60.0s
+[2025-11-01T18:44:46.232067] - [DOS] - Source IP: 192.168.1.231 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:46.484433] - [DOS] - Source IP: 192.168.1.39 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:46.687099] - [DOS] - Source IP: 192.168.1.135 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:46.788206] - [DOS] - Source IP: 192.168.1.190 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:46.889921] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:46.889998] - [PORT_SCAN] - Source IP: 192.168.1.205 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:46.991668] - [DOS] - Source IP: 192.168.1.229 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:47.042184] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:47.042251] - [PORT_SCAN] - Source IP: 192.168.1.14 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:47.194160] - [DOS] - Source IP: 192.168.1.204 | Details: Count: 10 in 60.0s
+[2025-11-01T18:44:47.345633] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 12 in 60.0s
+[2025-11-01T18:44:47.396194] - [DOS] - Source IP: 192.168.1.170 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:47.446919] - [DOS] - Source IP: 192.168.1.3 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:47.548291] - [DOS] - Source IP: 192.168.1.138 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:47.548355] - [PORT_SCAN] - Source IP: 192.168.1.138 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:47.598860] - [DOS] - Source IP: 192.168.1.142 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:47.700730] - [DOS] - Source IP: 192.168.1.166 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:47.751407] - [DOS] - Source IP: 192.168.1.55 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:47.801945] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:47.801996] - [PORT_SCAN] - Source IP: 192.168.1.205 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:47.852530] - [DOS] - Source IP: 192.168.1.197 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:47.953716] - [DOS] - Source IP: 192.168.1.16 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:48.054405] - [DOS] - Source IP: 192.168.1.158 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:48.155904] - [DOS] - Source IP: 192.168.1.170 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:48.206841] - [DOS] - Source IP: 192.168.1.55 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:48.308659] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:48.308713] - [PORT_SCAN] - Source IP: 192.168.1.205 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:48.513163] - [DOS] - Source IP: 192.168.1.248 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:48.614595] - [DOS] - Source IP: 192.168.1.224 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:48.817330] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: Command Injection, Payload: cmd.exe
+[2025-11-01T18:44:48.817387] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 10 in 60.0s
+[2025-11-01T18:44:48.970630] - [DOS] - Source IP: 192.168.1.217 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:49.021139] - [DOS] - Source IP: 192.168.1.106 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:49.122763] - [DOS] - Source IP: 192.168.1.145 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:49.173127] - [DOS] - Source IP: 192.168.1.164 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:49.173188] - [PORT_SCAN] - Source IP: 192.168.1.164 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:49.224121] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:49.224180] - [PORT_SCAN] - Source IP: 192.168.1.14 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:49.629203] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:49.679947] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:49.831850] - [DOS] - Source IP: 192.168.1.47 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:49.882825] - [DOS] - Source IP: 192.168.1.224 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:50.186574] - [DOS] - Source IP: 192.168.1.237 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:50.237231] - [DOS] - Source IP: 192.168.1.237 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:50.237286] - [PORT_SCAN] - Source IP: 192.168.1.237 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:50.287593] - [DOS] - Source IP: 192.168.1.213 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:50.490827] - [DOS] - Source IP: 192.168.1.103 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:50.794593] - [DOS] - Source IP: 192.168.1.15 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:50.845281] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 13 in 60.0s
+[2025-11-01T18:44:50.946322] - [PORT_SCAN] - Source IP: 192.168.1.230 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:51.098272] - [DOS] - Source IP: 192.168.1.124 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:51.249789] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:51.300125] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 10 in 60.0s
+[2025-11-01T18:44:51.300178] - [PORT_SCAN] - Source IP: 192.168.1.205 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:51.401393] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 13 in 60.0s
+[2025-11-01T18:44:51.401452] - [PORT_SCAN] - Source IP: 192.168.1.11 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:51.452084] - [DOS] - Source IP: 192.168.1.133 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:51.502573] - [DOS] - Source IP: 192.168.1.135 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:51.603962] - [DOS] - Source IP: 192.168.1.38 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:51.654948] - [PORT_SCAN] - Source IP: 192.168.1.230 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:51.756169] - [DOS] - Source IP: 192.168.1.113 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:52.008238] - [DOS] - Source IP: 192.168.1.152 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:52.109001] - [DOS] - Source IP: 192.168.1.111 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:52.159728] - [DOS] - Source IP: 192.168.1.245 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:52.210081] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:52.260969] - [DOS] - Source IP: 192.168.1.170 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:52.311604] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 10 in 60.0s
+[2025-11-01T18:44:52.311669] - [PORT_SCAN] - Source IP: 192.168.1.14 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:52.514104] - [DOS] - Source IP: 192.168.1.151 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:52.564638] - [DOS] - Source IP: 192.168.1.103 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:52.615194] - [DOS] - Source IP: 192.168.1.107 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:52.868389] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:52.970036] - [DOS] - Source IP: 192.168.1.93 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:53.122045] - [DOS] - Source IP: 192.168.1.248 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:53.172796] - [DOS] - Source IP: 192.168.1.111 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:53.223586] - [DOS] - Source IP: 192.168.1.76 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:53.324441] - [DOS] - Source IP: 192.168.1.186 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:53.426723] - [DOS] - Source IP: 192.168.1.224 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:53.426787] - [PORT_SCAN] - Source IP: 192.168.1.224 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:53.528277] - [DOS] - Source IP: 192.168.1.155 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:53.579006] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:53.579073] - [PORT_SCAN] - Source IP: 192.168.1.205 | Details: Unique Ports: 6 in 10.0s
+[2025-11-01T18:44:53.680092] - [DOS] - Source IP: 192.168.1.175 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:53.730601] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:53.781122] - [DOS] - Source IP: 192.168.1.163 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:53.831988] - [DOS] - Source IP: 192.168.1.143 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:53.933486] - [DOS] - Source IP: 192.168.1.230 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:53.933553] - [PORT_SCAN] - Source IP: 192.168.1.230 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:53.984256] - [DOS] - Source IP: 192.168.1.48 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:54.035630] - [DOS] - Source IP: 192.168.1.110 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:54.085957] - [DOS] - Source IP: 192.168.1.76 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:54.136545] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 14 in 60.0s
+[2025-11-01T18:44:54.136617] - [PORT_SCAN] - Source IP: 192.168.1.11 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:54.187402] - [DOS] - Source IP: 192.168.1.145 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:54.442952] - [DOS] - Source IP: 192.168.1.170 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:54.443019] - [PORT_SCAN] - Source IP: 192.168.1.170 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:54.645987] - [DOS] - Source IP: 192.168.1.194 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:54.797967] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:54.899320] - [DOS] - Source IP: 192.168.1.169 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:55.101957] - [DOS] - Source IP: 192.168.1.237 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:55.102023] - [PORT_SCAN] - Source IP: 192.168.1.237 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:55.203193] - [DOS] - Source IP: 192.168.1.35 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:55.254343] - [DOS] - Source IP: 192.168.1.138 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:55.304975] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: SQL Injection, Payload: union select
+[2025-11-01T18:44:55.305032] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 12 in 60.0s
+[2025-11-01T18:44:55.406387] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:55.406452] - [PORT_SCAN] - Source IP: 192.168.1.205 | Details: Unique Ports: 6 in 10.0s
+[2025-11-01T18:44:55.456794] - [DOS] - Source IP: 192.168.1.204 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:55.507333] - [DOS] - Source IP: 192.168.1.136 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:55.558085] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:55.608540] - [DOS] - Source IP: 192.168.1.110 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:55.659512] - [DOS] - Source IP: 192.168.1.196 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:55.760544] - [DOS] - Source IP: 192.168.1.176 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:55.810961] - [DOS] - Source IP: 192.168.1.174 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:55.861390] - [DOS] - Source IP: 192.168.1.242 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:55.911914] - [DOS] - Source IP: 192.168.1.3 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:56.163982] - [DOS] - Source IP: 192.168.1.169 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:56.214718] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:56.265884] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:56.368075] - [DOS] - Source IP: 192.168.1.86 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:56.521103] - [DOS] - Source IP: 192.168.1.89 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:56.571847] - [DOS] - Source IP: 192.168.1.213 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:56.622861] - [DOS] - Source IP: 172.16.0.124 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:56.673674] - [DOS] - Source IP: 192.168.1.196 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:56.724071] - [DOS] - Source IP: 192.168.1.117 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:56.876062] - [DOS] - Source IP: 192.168.1.46 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:56.926777] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:57.128825] - [DOS] - Source IP: 192.168.1.237 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:57.128910] - [PORT_SCAN] - Source IP: 192.168.1.237 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:44:57.179843] - [DOS] - Source IP: 192.168.1.23 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:57.281247] - [DOS] - Source IP: 192.168.1.89 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:57.433464] - [DOS] - Source IP: 192.168.1.151 | Details: Count: 9 in 60.0s
+[2025-11-01T18:44:57.534811] - [DOS] - Source IP: 192.168.1.42 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:57.585598] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 14 in 60.0s
+[2025-11-01T18:44:57.585661] - [PORT_SCAN] - Source IP: 192.168.1.11 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:57.788673] - [DOS] - Source IP: 192.168.1.47 | Details: Count: 10 in 60.0s
+[2025-11-01T18:44:57.839374] - [DOS] - Source IP: 192.168.1.106 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:58.042118] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 10 in 60.0s
+[2025-11-01T18:44:58.092606] - [DOS] - Source IP: 192.168.1.166 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:58.244334] - [DOS] - Source IP: 192.168.1.86 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:58.396556] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:58.446969] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 11 in 60.0s
+[2025-11-01T18:44:58.498179] - [DOS] - Source IP: 192.168.1.53 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:58.650972] - [DOS] - Source IP: 192.168.1.214 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:58.701363] - [DOS] - Source IP: 192.168.1.23 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:58.752865] - [DOS] - Source IP: 192.168.1.30 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:58.966109] - [DOS] - Source IP: 192.168.1.222 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:59.017124] - [DOS] - Source IP: 192.168.1.1 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:59.067846] - [DOS] - Source IP: 192.168.1.56 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:59.168833] - [DOS] - Source IP: 192.168.1.185 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:59.270380] - [DOS] - Source IP: 192.168.1.76 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:59.371592] - [DOS] - Source IP: 192.168.1.46 | Details: Count: 8 in 60.0s
+[2025-11-01T18:44:59.421981] - [DOS] - Source IP: 192.168.1.152 | Details: Count: 6 in 60.0s
+[2025-11-01T18:44:59.523362] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 12 in 60.0s
+[2025-11-01T18:44:59.523424] - [PORT_SCAN] - Source IP: 192.168.1.205 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:44:59.574158] - [DOS] - Source IP: 192.168.1.152 | Details: Count: 7 in 60.0s
+[2025-11-01T18:44:59.624817] - [DOS] - Source IP: 192.168.1.155 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:00.080740] - [DOS] - Source IP: 192.168.1.116 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:00.182007] - [DOS] - Source IP: 192.168.1.207 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:00.384934] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 15 in 60.0s
+[2025-11-01T18:45:00.384998] - [PORT_SCAN] - Source IP: 192.168.1.11 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:45:00.435669] - [DOS] - Source IP: 192.168.1.25 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:00.486724] - [DOS] - Source IP: 192.168.1.136 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:00.693126] - [DOS] - Source IP: 192.168.1.73 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:00.745050] - [DOS] - Source IP: 192.168.1.30 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:00.846720] - [DOS] - Source IP: 192.168.1.218 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:00.897166] - [DOS] - Source IP: 192.168.1.163 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:00.998221] - [DOS] - Source IP: 192.168.1.91 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:01.048760] - [DOS] - Source IP: 192.168.1.46 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:01.099195] - [DOS] - Source IP: 192.168.1.245 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:01.402880] - [DOS] - Source IP: 192.168.1.25 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:01.453250] - [DOS] - Source IP: 192.168.1.184 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:01.554629] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:01.605158] - [DOS] - Source IP: 192.168.1.220 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:01.655944] - [DOS] - Source IP: 192.168.1.71 | Details: Count: 12 in 60.0s
+[2025-11-01T18:45:01.706586] - [DOS] - Source IP: 192.168.1.35 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:01.807258] - [DOS] - Source IP: 192.168.1.76 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:01.807315] - [PORT_SCAN] - Source IP: 192.168.1.76 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:01.858059] - [DOS] - Source IP: 192.168.1.222 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:02.009970] - [DOS] - Source IP: 192.168.1.19 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:02.060787] - [DOS] - Source IP: 192.168.1.56 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:02.263933] - [DOS] - Source IP: 192.168.1.170 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:02.365088] - [DOS] - Source IP: 192.168.1.116 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:02.415812] - [DOS] - Source IP: 192.168.1.71 | Details: Count: 13 in 60.0s
+[2025-11-01T18:45:02.466650] - [DOS] - Source IP: 192.168.1.84 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:02.568686] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: PHP Code Injection, Payload: base64_decode
+[2025-11-01T18:45:02.568761] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:02.619567] - [DOS] - Source IP: 192.168.1.245 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:02.670258] - [DOS] - Source IP: 192.168.1.119 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:02.771088] - [DOS] - Source IP: 192.168.1.242 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:02.821793] - [DOS] - Source IP: 192.168.1.222 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:02.821853] - [PORT_SCAN] - Source IP: 192.168.1.222 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:02.872331] - [DOS] - Source IP: 192.168.1.214 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:02.974079] - [DOS] - Source IP: 192.168.1.244 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:03.024949] - [SIGNATURE] - Source IP: 10.0.0.5 | Details: Attack: PHP Code Injection, Payload: base64_decode
+[2025-11-01T18:45:03.075810] - [DOS] - Source IP: 192.168.1.73 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:03.227708] - [DOS] - Source IP: 192.168.1.28 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:03.278198] - [DOS] - Source IP: 192.168.1.119 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:03.379196] - [DOS] - Source IP: 192.168.1.142 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:03.480637] - [DOS] - Source IP: 192.168.1.79 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:03.683146] - [DOS] - Source IP: 192.168.1.116 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:03.784320] - [DOS] - Source IP: 192.168.1.23 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:03.784377] - [PORT_SCAN] - Source IP: 192.168.1.23 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:04.037300] - [DOS] - Source IP: 192.168.1.111 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:04.087829] - [DOS] - Source IP: 192.168.1.185 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:04.138547] - [DOS] - Source IP: 192.168.1.226 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:04.391981] - [DOS] - Source IP: 192.168.1.169 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:04.446851] - [DOS] - Source IP: 192.168.1.175 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:04.549792] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:04.650836] - [DOS] - Source IP: 192.168.1.37 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:04.802560] - [DOS] - Source IP: 192.168.1.207 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:04.904079] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:04.904135] - [PORT_SCAN] - Source IP: 192.168.1.173 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:04.954702] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:05.005078] - [DOS] - Source IP: 192.168.1.186 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:05.207119] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:05.308202] - [DOS] - Source IP: 192.168.1.89 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:05.359330] - [DOS] - Source IP: 192.168.1.145 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:05.409980] - [DOS] - Source IP: 192.168.1.237 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:05.510756] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 12 in 60.0s
+[2025-11-01T18:45:05.561080] - [DOS] - Source IP: 192.168.1.170 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:05.661886] - [DOS] - Source IP: 192.168.1.119 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:05.661963] - [PORT_SCAN] - Source IP: 192.168.1.119 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:05.915565] - [DOS] - Source IP: 192.168.1.153 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:06.016753] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:06.270178] - [DOS] - Source IP: 192.168.1.204 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:06.320709] - [DOS] - Source IP: 192.168.1.47 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:06.372028] - [DOS] - Source IP: 192.168.1.175 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:06.422692] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:06.473588] - [DOS] - Source IP: 192.168.1.155 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:06.574608] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:06.726354] - [DOS] - Source IP: 192.168.1.152 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:06.777096] - [DOS] - Source IP: 192.168.1.1 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:06.878236] - [DOS] - Source IP: 192.168.1.231 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:06.929216] - [DOS] - Source IP: 192.168.1.213 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:06.979722] - [DOS] - Source IP: 192.168.1.64 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:07.030460] - [DOS] - Source IP: 192.168.1.25 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:07.082025] - [DOS] - Source IP: 192.168.1.73 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:07.336383] - [DOS] - Source IP: 192.168.1.226 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:07.489929] - [DOS] - Source IP: 192.168.1.229 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:07.541760] - [DOS] - Source IP: 192.168.1.169 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:07.643674] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 12 in 60.0s
+[2025-11-01T18:45:07.694583] - [PORT_SCAN] - Source IP: 192.168.1.41 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:07.897025] - [DOS] - Source IP: 192.168.1.23 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:07.947572] - [DOS] - Source IP: 192.168.1.76 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:07.998039] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:08.049208] - [DOS] - Source IP: 192.168.1.113 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:08.251854] - [DOS] - Source IP: 192.168.1.33 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:08.454501] - [DOS] - Source IP: 192.168.1.44 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:08.555806] - [DOS] - Source IP: 192.168.1.103 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:08.656466] - [DOS] - Source IP: 192.168.1.59 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:08.808017] - [DOS] - Source IP: 192.168.1.230 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:09.010062] - [DOS] - Source IP: 192.168.1.29 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:09.263262] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:09.313949] - [SIGNATURE] - Source IP: 10.0.0.7 | Details: Attack: SQL Injection, Payload: ' OR 1=1 --
+[2025-11-01T18:45:09.314015] - [DOS] - Source IP: 10.0.0.7 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:09.314054] - [PORT_SCAN] - Source IP: 10.0.0.7 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:09.516573] - [DOS] - Source IP: 192.168.1.248 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:09.667954] - [DOS] - Source IP: 192.168.1.117 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:09.718341] - [DOS] - Source IP: 192.168.1.185 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:09.770668] - [DOS] - Source IP: 192.168.1.138 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:09.821175] - [DOS] - Source IP: 192.168.1.47 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:09.871859] - [DOS] - Source IP: 192.168.1.172 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:10.075236] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:10.176242] - [DOS] - Source IP: 192.168.1.113 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:10.277449] - [DOS] - Source IP: 192.168.1.116 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:10.429017] - [DOS] - Source IP: 192.168.1.172 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:10.682712] - [DOS] - Source IP: 192.168.1.152 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:10.733346] - [DOS] - Source IP: 192.168.1.107 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:10.783894] - [DOS] - Source IP: 192.168.1.124 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:10.834687] - [DOS] - Source IP: 192.168.1.221 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:10.885594] - [DOS] - Source IP: 192.168.1.47 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:10.987212] - [DOS] - Source IP: 192.168.1.136 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:11.089039] - [DOS] - Source IP: 192.168.1.86 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:11.392956] - [DOS] - Source IP: 192.168.1.111 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:11.443677] - [SIGNATURE] - Source IP: 10.0.0.7 | Details: Attack: PHP Code Injection, Payload: base64_decode
+[2025-11-01T18:45:11.443729] - [DOS] - Source IP: 10.0.0.7 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:11.443766] - [PORT_SCAN] - Source IP: 10.0.0.7 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:45:11.545409] - [DOS] - Source IP: 192.168.1.245 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:11.646633] - [DOS] - Source IP: 192.168.1.196 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:11.798037] - [DOS] - Source IP: 192.168.1.24 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:11.848440] - [DOS] - Source IP: 192.168.1.30 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:12.051167] - [DOS] - Source IP: 192.168.1.55 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:12.202960] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:12.303688] - [DOS] - Source IP: 192.168.1.138 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:12.455002] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:12.555933] - [DOS] - Source IP: 192.168.1.30 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:12.606488] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:12.657311] - [DOS] - Source IP: 192.168.1.98 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:12.707854] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:12.809011] - [DOS] - Source IP: 192.168.1.15 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:12.960760] - [DOS] - Source IP: 192.168.1.74 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:13.011110] - [DOS] - Source IP: 192.168.1.220 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:13.111882] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:13.212548] - [DOS] - Source IP: 192.168.1.86 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:13.263070] - [DOS] - Source IP: 192.168.1.85 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:13.414732] - [DOS] - Source IP: 192.168.1.20 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:13.465731] - [DOS] - Source IP: 192.168.1.91 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:13.516300] - [DOS] - Source IP: 192.168.1.229 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:13.970915] - [DOS] - Source IP: 172.16.0.99 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:14.022061] - [DOS] - Source IP: 192.168.1.163 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:14.124098] - [DOS] - Source IP: 192.168.1.186 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:14.225508] - [DOS] - Source IP: 192.168.1.19 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:14.276026] - [DOS] - Source IP: 192.168.1.73 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:14.429843] - [DOS] - Source IP: 192.168.1.131 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:14.581645] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:14.632466] - [DOS] - Source IP: 192.168.1.243 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:15.037935] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:15.189378] - [DOS] - Source IP: 192.168.1.64 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:15.290821] - [DOS] - Source IP: 192.168.1.244 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:15.341550] - [DOS] - Source IP: 192.168.1.185 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:15.392005] - [DOS] - Source IP: 192.168.1.213 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:15.598194] - [DOS] - Source IP: 192.168.1.221 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:15.800536] - [DOS] - Source IP: 192.168.1.186 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:15.951861] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: SQL Injection, Payload: ' OR 1=1 --
+[2025-11-01T18:45:15.951910] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:16.053197] - [DOS] - Source IP: 192.168.1.89 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:16.154250] - [DOS] - Source IP: 192.168.1.64 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:16.305898] - [DOS] - Source IP: 192.168.1.98 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:16.356346] - [DOS] - Source IP: 192.168.1.26 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:16.457675] - [DOS] - Source IP: 192.168.1.55 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:16.507961] - [DOS] - Source IP: 192.168.1.5 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:16.710030] - [DOS] - Source IP: 192.168.1.169 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:16.760955] - [DOS] - Source IP: 192.168.1.29 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:16.811483] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:16.862231] - [DOS] - Source IP: 192.168.1.129 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:16.912810] - [DOS] - Source IP: 192.168.1.158 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:17.014045] - [DOS] - Source IP: 192.168.1.15 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:17.064920] - [DOS] - Source IP: 192.168.1.142 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:17.115937] - [DOS] - Source IP: 192.168.1.7 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:17.267504] - [DOS] - Source IP: 192.168.1.48 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:17.318027] - [DOS] - Source IP: 192.168.1.215 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:17.469886] - [SIGNATURE] - Source IP: 10.0.0.5 | Details: Attack: Command Injection, Payload: cmd.exe
+[2025-11-01T18:45:17.571305] - [DOS] - Source IP: 192.168.1.46 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:17.622138] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:17.672653] - [DOS] - Source IP: 192.168.1.184 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:17.723180] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:17.773985] - [DOS] - Source IP: 192.168.1.152 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:17.824527] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:18.229521] - [DOS] - Source IP: 172.16.0.99 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:18.330944] - [DOS] - Source IP: 192.168.1.152 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:18.432988] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:18.483513] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:18.533961] - [DOS] - Source IP: 192.168.1.44 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:18.635449] - [DOS] - Source IP: 192.168.1.221 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:18.635521] - [PORT_SCAN] - Source IP: 192.168.1.221 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:18.685888] - [DOS] - Source IP: 192.168.1.34 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:18.737160] - [DOS] - Source IP: 192.168.1.15 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:18.888867] - [DOS] - Source IP: 192.168.1.25 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:18.939309] - [DOS] - Source IP: 192.168.1.226 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:19.193041] - [DOS] - Source IP: 192.168.1.16 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:19.446174] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:19.496943] - [DOS] - Source IP: 192.168.1.237 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:19.699832] - [DOS] - Source IP: 192.168.1.87 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:19.851835] - [DOS] - Source IP: 192.168.1.237 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:19.952978] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 12 in 60.0s
+[2025-11-01T18:45:20.003455] - [DOS] - Source IP: 192.168.1.248 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:20.256731] - [DOS] - Source IP: 192.168.1.163 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:20.307319] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:20.358294] - [DOS] - Source IP: 192.168.1.33 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:20.408821] - [DOS] - Source IP: 192.168.1.229 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:20.510582] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:20.611413] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 13 in 60.0s
+[2025-11-01T18:45:20.662144] - [DOS] - Source IP: 192.168.1.71 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:20.712634] - [DOS] - Source IP: 192.168.1.244 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:20.865133] - [DOS] - Source IP: 192.168.1.133 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:21.016479] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:21.067296] - [DOS] - Source IP: 192.168.1.79 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:21.168616] - [DOS] - Source IP: 192.168.1.168 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:21.219126] - [DOS] - Source IP: 192.168.1.86 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:21.320577] - [DOS] - Source IP: 192.168.1.85 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:21.371188] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:21.421959] - [DOS] - Source IP: 192.168.1.48 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:21.472739] - [DOS] - Source IP: 192.168.1.98 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:21.573964] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:21.726478] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 12 in 60.0s
+[2025-11-01T18:45:21.777114] - [DOS] - Source IP: 192.168.1.23 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:21.827925] - [DOS] - Source IP: 192.168.1.47 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:21.929078] - [DOS] - Source IP: 192.168.1.172 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:21.979592] - [DOS] - Source IP: 192.168.1.110 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:22.030073] - [DOS] - Source IP: 192.168.1.128 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:22.131975] - [PORT_SCAN] - Source IP: 192.168.1.90 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:22.283883] - [DOS] - Source IP: 192.168.1.229 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:22.436011] - [DOS] - Source IP: 192.168.1.138 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:22.689424] - [DOS] - Source IP: 192.168.1.138 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:22.739875] - [DOS] - Source IP: 192.168.1.16 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:22.790739] - [DOS] - Source IP: 192.168.1.128 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:22.841944] - [DOS] - Source IP: 192.168.1.94 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:22.943269] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 14 in 60.0s
+[2025-11-01T18:45:23.094557] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:23.195775] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 13 in 60.0s
+[2025-11-01T18:45:23.297604] - [DOS] - Source IP: 192.168.1.245 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:23.600819] - [SIGNATURE] - Source IP: 10.0.0.5 | Details: Attack: Code Injection, Payload: eval(
+[2025-11-01T18:45:23.600905] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:23.702271] - [DOS] - Source IP: 192.168.1.16 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:23.702341] - [PORT_SCAN] - Source IP: 192.168.1.16 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:23.853685] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 12 in 60.0s
+[2025-11-01T18:45:23.904038] - [SIGNATURE] - Source IP: 10.0.0.5 | Details: Attack: SQL Injection, Payload: union select
+[2025-11-01T18:45:23.904097] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:24.106168] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:24.156753] - [DOS] - Source IP: 192.168.1.226 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:24.207496] - [DOS] - Source IP: 192.168.1.87 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:24.207560] - [PORT_SCAN] - Source IP: 192.168.1.87 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:24.258210] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:24.359358] - [DOS] - Source IP: 192.168.1.169 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:24.511279] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 15 in 60.0s
+[2025-11-01T18:45:24.511342] - [PORT_SCAN] - Source IP: 192.168.1.205 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:24.562174] - [DOS] - Source IP: 192.168.1.110 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:24.716790] - [DOS] - Source IP: 192.168.1.152 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:24.767491] - [DOS] - Source IP: 192.168.1.245 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:24.918824] - [DOS] - Source IP: 192.168.1.237 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:25.020200] - [DOS] - Source IP: 192.168.1.198 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:25.121295] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:25.222670] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:25.323679] - [DOS] - Source IP: 192.168.1.243 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:25.374338] - [DOS] - Source IP: 192.168.1.47 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:25.425033] - [DOS] - Source IP: 192.168.1.211 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:25.576810] - [DOS] - Source IP: 192.168.1.220 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:25.677757] - [DOS] - Source IP: 192.168.1.30 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:25.779047] - [DOS] - Source IP: 192.168.1.211 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:25.880226] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:25.931067] - [DOS] - Source IP: 192.168.1.136 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:25.981671] - [DOS] - Source IP: 192.168.1.151 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:26.133143] - [DOS] - Source IP: 192.168.1.152 | Details: Count: 12 in 60.0s
+[2025-11-01T18:45:26.133194] - [PORT_SCAN] - Source IP: 192.168.1.152 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:26.183748] - [DOS] - Source IP: 192.168.1.55 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:26.234393] - [DOS] - Source IP: 192.168.1.248 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:26.386204] - [DOS] - Source IP: 192.168.1.100 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:26.689823] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:26.942900] - [DOS] - Source IP: 192.168.1.162 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:27.062716] - [DOS] - Source IP: 192.168.1.213 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:27.164320] - [DOS] - Source IP: 192.168.1.12 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:27.265571] - [DOS] - Source IP: 192.168.1.211 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:27.265643] - [PORT_SCAN] - Source IP: 192.168.1.211 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:27.417159] - [DOS] - Source IP: 192.168.1.213 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:27.467524] - [DOS] - Source IP: 192.168.1.44 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:27.518132] - [DOS] - Source IP: 192.168.1.1 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:27.568906] - [DOS] - Source IP: 192.168.1.30 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:27.619417] - [DOS] - Source IP: 192.168.1.73 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:27.669913] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:27.821131] - [DOS] - Source IP: 192.168.1.48 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:27.922262] - [DOS] - Source IP: 192.168.1.151 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:27.973056] - [DOS] - Source IP: 192.168.1.85 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:28.074118] - [DOS] - Source IP: 192.168.1.128 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:28.124445] - [DOS] - Source IP: 192.168.1.56 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:28.327025] - [DOS] - Source IP: 192.168.1.172 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:28.377491] - [DOS] - Source IP: 192.168.1.152 | Details: Count: 13 in 60.0s
+[2025-11-01T18:45:28.428136] - [DOS] - Source IP: 192.168.1.230 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:28.529649] - [DOS] - Source IP: 192.168.1.33 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:28.681941] - [DOS] - Source IP: 192.168.1.185 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:28.733010] - [DOS] - Source IP: 192.168.1.162 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:28.733108] - [PORT_SCAN] - Source IP: 192.168.1.162 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:28.884267] - [DOS] - Source IP: 192.168.1.248 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:28.985621] - [DOS] - Source IP: 192.168.1.224 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:29.036380] - [DOS] - Source IP: 192.168.1.195 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:29.087202] - [DOS] - Source IP: 192.168.1.221 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:29.138043] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:29.390818] - [DOS] - Source IP: 192.168.1.16 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:29.491873] - [DOS] - Source IP: 192.168.1.87 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:29.542624] - [DOS] - Source IP: 192.168.1.104 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:29.593550] - [DOS] - Source IP: 192.168.1.1 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:29.694601] - [DOS] - Source IP: 192.168.1.172 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:29.795907] - [DOS] - Source IP: 192.168.1.12 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:29.947694] - [DOS] - Source IP: 192.168.1.168 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:30.149451] - [DOS] - Source IP: 192.168.1.175 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:30.199909] - [DOS] - Source IP: 192.168.1.73 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:30.250479] - [DOS] - Source IP: 192.168.1.37 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:30.301334] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:30.453285] - [DOS] - Source IP: 192.168.1.159 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:30.605321] - [DOS] - Source IP: 192.168.1.237 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:30.655713] - [DOS] - Source IP: 192.168.1.90 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:30.858412] - [DOS] - Source IP: 192.168.1.133 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:30.909392] - [DOS] - Source IP: 192.168.1.243 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:30.960117] - [DOS] - Source IP: 192.168.1.12 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:31.061052] - [DOS] - Source IP: 192.168.1.184 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:31.111438] - [DOS] - Source IP: 10.0.0.7 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:31.263154] - [DOS] - Source IP: 192.168.1.106 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:31.313787] - [DOS] - Source IP: 192.168.1.169 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:31.415175] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:31.566574] - [DOS] - Source IP: 192.168.1.48 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:31.768612] - [DOS] - Source IP: 192.168.1.144 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:31.819468] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 12 in 60.0s
+[2025-11-01T18:45:31.870207] - [DOS] - Source IP: 192.168.1.224 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:31.920582] - [DOS] - Source IP: 192.168.1.138 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:31.975177] - [DOS] - Source IP: 192.168.1.221 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:32.127528] - [DOS] - Source IP: 192.168.1.104 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:32.279140] - [DOS] - Source IP: 192.168.1.240 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:32.380349] - [DOS] - Source IP: 192.168.1.37 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:32.430990] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:32.481498] - [DOS] - Source IP: 192.168.1.34 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:32.684054] - [DOS] - Source IP: 192.168.1.19 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:32.785503] - [DOS] - Source IP: 192.168.1.224 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:32.785590] - [PORT_SCAN] - Source IP: 192.168.1.224 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:32.937316] - [DOS] - Source IP: 192.168.1.159 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:32.988231] - [DOS] - Source IP: 192.168.1.119 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:33.038773] - [DOS] - Source IP: 192.168.1.12 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:33.038827] - [PORT_SCAN] - Source IP: 192.168.1.12 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:33.140546] - [DOS] - Source IP: 192.168.1.27 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:33.191365] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:33.292713] - [DOS] - Source IP: 192.168.1.30 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:33.494891] - [DOS] - Source IP: 192.168.1.174 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:33.545614] - [DOS] - Source IP: 192.168.1.98 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:33.596435] - [DOS] - Source IP: 192.168.1.85 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:33.748921] - [DOS] - Source IP: 192.168.1.100 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:33.799240] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:33.952188] - [DOS] - Source IP: 192.168.1.155 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:34.003086] - [DOS] - Source IP: 192.168.1.164 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:34.307782] - [DOS] - Source IP: 192.168.1.13 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:34.408838] - [DOS] - Source IP: 192.168.1.48 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:34.459700] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:34.712873] - [DOS] - Source IP: 192.168.1.1 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:34.763516] - [DOS] - Source IP: 192.168.1.222 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:34.868459] - [SIGNATURE] - Source IP: 10.0.0.5 | Details: Attack: SQL Injection, Payload: union select
+[2025-11-01T18:45:34.868516] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:34.969800] - [DOS] - Source IP: 192.168.1.222 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:35.121962] - [DOS] - Source IP: 192.168.1.230 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:35.274053] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:35.324787] - [DOS] - Source IP: 192.168.1.211 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:35.324864] - [PORT_SCAN] - Source IP: 192.168.1.211 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:35.425936] - [DOS] - Source IP: 192.168.1.245 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:35.477219] - [DOS] - Source IP: 192.168.1.69 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:35.630806] - [SIGNATURE] - Source IP: 10.0.0.5 | Details: Attack: SQL Injection, Payload: ' OR 1=1 --
+[2025-11-01T18:45:35.630865] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:35.783204] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:35.833730] - [DOS] - Source IP: 192.168.1.71 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:35.985985] - [DOS] - Source IP: 192.168.1.86 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:36.036539] - [DOS] - Source IP: 192.168.1.213 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:36.188383] - [DOS] - Source IP: 192.168.1.129 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:36.239098] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:36.593740] - [DOS] - Source IP: 192.168.1.104 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:36.593810] - [PORT_SCAN] - Source IP: 192.168.1.104 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:36.644340] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:36.846537] - [DOS] - Source IP: 192.168.1.20 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:36.897399] - [DOS] - Source IP: 192.168.1.37 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:36.897463] - [PORT_SCAN] - Source IP: 192.168.1.37 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:37.099753] - [DOS] - Source IP: 192.168.1.59 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:37.201224] - [DOS] - Source IP: 192.168.1.231 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:37.303052] - [DOS] - Source IP: 192.168.1.73 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:37.353708] - [DOS] - Source IP: 192.168.1.4 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:37.454692] - [DOS] - Source IP: 192.168.1.231 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:37.454758] - [PORT_SCAN] - Source IP: 192.168.1.231 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:37.505372] - [DOS] - Source IP: 192.168.1.168 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:37.606526] - [DOS] - Source IP: 192.168.1.190 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:37.657365] - [DOS] - Source IP: 192.168.1.186 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:37.808736] - [DOS] - Source IP: 192.168.1.62 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:38.013093] - [DOS] - Source IP: 192.168.1.164 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:38.063683] - [DOS] - Source IP: 192.168.1.241 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:38.318581] - [DOS] - Source IP: 192.168.1.184 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:38.525806] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:38.627390] - [DOS] - Source IP: 192.168.1.221 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:38.728222] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:38.728279] - [PORT_SCAN] - Source IP: 192.168.1.246 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:38.778780] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:38.879972] - [DOS] - Source IP: 192.168.1.111 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:39.132743] - [DOS] - Source IP: 192.168.1.16 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:39.233609] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:39.334341] - [DOS] - Source IP: 192.168.1.211 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:39.435453] - [DOS] - Source IP: 192.168.1.80 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:39.587522] - [DOS] - Source IP: 192.168.1.211 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:39.739449] - [DOS] - Source IP: 192.168.1.98 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:40.093943] - [DOS] - Source IP: 192.168.1.110 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:40.144416] - [DOS] - Source IP: 192.168.1.220 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:40.194768] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:40.245307] - [DOS] - Source IP: 192.168.1.20 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:40.498640] - [DOS] - Source IP: 192.168.1.44 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:40.599911] - [DOS] - Source IP: 192.168.1.5 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:40.752569] - [DOS] - Source IP: 192.168.1.185 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:40.803003] - [DOS] - Source IP: 192.168.1.133 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:40.903670] - [DOS] - Source IP: 192.168.1.167 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:40.903724] - [PORT_SCAN] - Source IP: 192.168.1.167 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:41.207292] - [DOS] - Source IP: 192.168.1.8 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:41.257797] - [DOS] - Source IP: 192.168.1.162 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:41.510271] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:41.560824] - [DOS] - Source IP: 192.168.1.144 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:41.611828] - [DOS] - Source IP: 192.168.1.207 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:41.662215] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:41.763519] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: Command Injection, Payload: cmd.exe
+[2025-11-01T18:45:41.763577] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:41.865168] - [DOS] - Source IP: 192.168.1.232 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:42.016555] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 14 in 60.0s
+[2025-11-01T18:45:42.474240] - [DOS] - Source IP: 192.168.1.136 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:42.524654] - [DOS] - Source IP: 192.168.1.237 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:42.575306] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:42.726303] - [DOS] - Source IP: 192.168.1.29 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:42.776669] - [DOS] - Source IP: 192.168.1.149 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:42.827433] - [DOS] - Source IP: 192.168.1.226 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:42.878189] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:42.878264] - [PORT_SCAN] - Source IP: 192.168.1.246 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:42.929598] - [DOS] - Source IP: 192.168.1.229 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:42.979995] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:43.182469] - [DOS] - Source IP: 192.168.1.211 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:43.182530] - [PORT_SCAN] - Source IP: 192.168.1.211 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:43.435324] - [DOS] - Source IP: 192.168.1.73 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:43.536353] - [DOS] - Source IP: 192.168.1.241 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:43.587279] - [DOS] - Source IP: 192.168.1.2 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:43.739251] - [DOS] - Source IP: 192.168.1.154 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:43.790002] - [DOS] - Source IP: 192.168.1.62 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:43.991650] - [DOS] - Source IP: 192.168.1.190 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:44.243846] - [PORT_SCAN] - Source IP: 192.168.1.147 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:44.294155] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:44.294218] - [PORT_SCAN] - Source IP: 10.0.0.5 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:44.395252] - [DOS] - Source IP: 192.168.1.7 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:44.446179] - [DOS] - Source IP: 192.168.1.29 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:44.496518] - [DOS] - Source IP: 192.168.1.1 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:44.547363] - [DOS] - Source IP: 192.168.1.111 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:44.648424] - [DOS] - Source IP: 192.168.1.34 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:44.698906] - [DOS] - Source IP: 192.168.1.195 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:44.851215] - [DOS] - Source IP: 192.168.1.115 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:45.154583] - [DOS] - Source IP: 192.168.1.185 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:45.205026] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:45.305954] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:45.457656] - [DOS] - Source IP: 192.168.1.170 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:45.558655] - [DOS] - Source IP: 192.168.1.2 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:45.609188] - [DOS] - Source IP: 192.168.1.162 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:45.659613] - [DOS] - Source IP: 192.168.1.168 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:45.862104] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:46.114909] - [DOS] - Source IP: 192.168.1.124 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:46.166170] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:46.469425] - [DOS] - Source IP: 192.168.1.169 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:46.570253] - [DOS] - Source IP: 192.168.1.1 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:46.621084] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:46.671432] - [DOS] - Source IP: 192.168.1.5 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:46.721933] - [DOS] - Source IP: 192.168.1.133 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:46.974136] - [DOS] - Source IP: 192.168.1.244 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:47.075258] - [DOS] - Source IP: 192.168.1.47 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:47.176514] - [DOS] - Source IP: 192.168.1.209 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:47.328793] - [DOS] - Source IP: 192.168.1.34 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:47.379333] - [DOS] - Source IP: 192.168.1.138 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:47.429803] - [DOS] - Source IP: 192.168.1.20 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:47.530960] - [DOS] - Source IP: 192.168.1.85 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:47.581661] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:47.632271] - [DOS] - Source IP: 192.168.1.26 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:47.784530] - [DOS] - Source IP: 192.168.1.151 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:47.935836] - [DOS] - Source IP: 192.168.1.85 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:48.087759] - [DOS] - Source IP: 192.168.1.86 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:48.138377] - [DOS] - Source IP: 192.168.1.245 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:48.188801] - [DOS] - Source IP: 192.168.1.144 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:48.239100] - [DOS] - Source IP: 192.168.1.213 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:48.289452] - [DOS] - Source IP: 192.168.1.213 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:48.340213] - [DOS] - Source IP: 192.168.1.195 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:48.390715] - [DOS] - Source IP: 192.168.1.200 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:48.694047] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:48.896658] - [DOS] - Source IP: 192.168.1.9 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:48.947108] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:49.098846] - [DOS] - Source IP: 192.168.1.229 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:49.301298] - [DOS] - Source IP: 192.168.1.80 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:49.351788] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:49.402372] - [DOS] - Source IP: 192.168.1.220 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:49.452931] - [DOS] - Source IP: 192.168.1.64 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:49.503357] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:49.503427] - [PORT_SCAN] - Source IP: 10.0.0.6 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:49.604215] - [DOS] - Source IP: 192.168.1.5 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:49.604272] - [PORT_SCAN] - Source IP: 192.168.1.5 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:49.654722] - [DOS] - Source IP: 192.168.1.211 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:49.856582] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:50.008940] - [DOS] - Source IP: 192.168.1.59 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:50.059585] - [DOS] - Source IP: 192.168.1.87 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:50.110477] - [DOS] - Source IP: 192.168.1.31 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:50.161195] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:50.263660] - [SIGNATURE] - Source IP: 10.0.0.5 | Details: Attack: SQL Injection, Payload: union select
+[2025-11-01T18:45:50.263721] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:50.617799] - [DOS] - Source IP: 192.168.1.128 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:50.668614] - [DOS] - Source IP: 192.168.1.105 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:50.820150] - [DOS] - Source IP: 192.168.1.152 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:50.920734] - [DOS] - Source IP: 192.168.1.28 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:50.971934] - [DOS] - Source IP: 192.168.1.27 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:51.022429] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:51.124038] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:51.174621] - [DOS] - Source IP: 192.168.1.8 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:51.428526] - [DOS] - Source IP: 192.168.1.162 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:51.529601] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:51.630604] - [DOS] - Source IP: 192.168.1.2 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:51.731822] - [DOS] - Source IP: 192.168.1.22 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:51.782301] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:51.832753] - [DOS] - Source IP: 192.168.1.224 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:51.883230] - [DOS] - Source IP: 192.168.1.170 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:51.933547] - [DOS] - Source IP: 192.168.1.98 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:51.984536] - [DOS] - Source IP: 192.168.1.88 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:52.035231] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:52.136392] - [DOS] - Source IP: 192.168.1.159 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:52.388841] - [DOS] - Source IP: 192.168.1.231 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:52.439931] - [DOS] - Source IP: 192.168.1.222 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:52.541080] - [DOS] - Source IP: 192.168.1.241 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:52.794142] - [DOS] - Source IP: 192.168.1.32 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:52.995907] - [DOS] - Source IP: 192.168.1.127 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:53.249222] - [DOS] - Source IP: 192.168.1.250 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:53.350250] - [DOS] - Source IP: 192.168.1.101 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:53.400851] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:53.502130] - [DOS] - Source IP: 192.168.1.185 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:53.603691] - [DOS] - Source IP: 192.168.1.42 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:53.654299] - [DOS] - Source IP: 192.168.1.232 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:53.806493] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: SQL Injection, Payload: ' OR 1=1 --
+[2025-11-01T18:45:53.806542] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:53.806566] - [PORT_SCAN] - Source IP: 10.0.0.6 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:53.907562] - [DOS] - Source IP: 192.168.1.229 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:54.160543] - [DOS] - Source IP: 192.168.1.42 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:54.160602] - [PORT_SCAN] - Source IP: 192.168.1.42 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:54.261512] - [DOS] - Source IP: 192.168.1.1 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:54.311975] - [DOS] - Source IP: 192.168.1.211 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:54.362355] - [DOS] - Source IP: 192.168.1.157 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:54.413384] - [DOS] - Source IP: 192.168.1.87 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:54.565990] - [DOS] - Source IP: 192.168.1.91 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:54.616471] - [DOS] - Source IP: 192.168.1.101 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:54.768533] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:54.819113] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:54.920446] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 12 in 60.0s
+[2025-11-01T18:45:55.072572] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:55.173819] - [DOS] - Source IP: 192.168.1.166 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:55.277575] - [DOS] - Source IP: 192.168.1.241 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:55.328023] - [DOS] - Source IP: 192.168.1.87 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:55.378520] - [DOS] - Source IP: 192.168.1.162 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:55.429258] - [DOS] - Source IP: 192.168.1.169 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:55.480015] - [DOS] - Source IP: 192.168.1.4 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:55.581350] - [DOS] - Source IP: 192.168.1.147 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:55.632144] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:55.682764] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:55.784024] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: PHP Code Injection, Payload: base64_decode
+[2025-11-01T18:45:55.784329] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:55.784377] - [PORT_SCAN] - Source IP: 10.0.0.6 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:45:55.885611] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:55.936402] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:56.037457] - [DOS] - Source IP: 192.168.1.104 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:56.088166] - [DOS] - Source IP: 192.168.1.172 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:56.138769] - [DOS] - Source IP: 192.168.1.151 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:56.239839] - [DOS] - Source IP: 192.168.1.209 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:56.341196] - [DOS] - Source IP: 192.168.1.229 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:56.391537] - [DOS] - Source IP: 192.168.1.241 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:56.442508] - [DOS] - Source IP: 192.168.1.185 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:56.610212] - [DOS] - Source IP: 192.168.1.1 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:56.711531] - [DOS] - Source IP: 192.168.1.144 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:56.863925] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: PHP Code Injection, Payload: base64_decode
+[2025-11-01T18:45:56.863984] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 11 in 60.0s
+[2025-11-01T18:45:56.864010] - [PORT_SCAN] - Source IP: 10.0.0.6 | Details: Unique Ports: 6 in 10.0s
+[2025-11-01T18:45:56.914715] - [DOS] - Source IP: 192.168.1.100 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:57.015930] - [DOS] - Source IP: 192.168.1.64 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:57.117122] - [DOS] - Source IP: 192.168.1.219 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:57.269190] - [DOS] - Source IP: 192.168.1.37 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:57.319759] - [DOS] - Source IP: 192.168.1.219 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:57.370640] - [DOS] - Source IP: 192.168.1.72 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:57.472031] - [DOS] - Source IP: 192.168.1.221 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:57.573250] - [DOS] - Source IP: 192.168.1.32 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:57.724868] - [DOS] - Source IP: 192.168.1.98 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:57.775371] - [DOS] - Source IP: 192.168.1.149 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:57.927217] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:58.028743] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:58.180879] - [DOS] - Source IP: 192.168.1.52 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:58.282838] - [DOS] - Source IP: 192.168.1.172 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:58.373102] - [DOS] - Source IP: 192.168.1.226 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:58.423595] - [DOS] - Source IP: 192.168.1.154 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:58.474200] - [DOS] - Source IP: 192.168.1.62 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:58.575905] - [DOS] - Source IP: 192.168.1.245 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:58.626632] - [DOS] - Source IP: 192.168.1.215 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:58.677015] - [DOS] - Source IP: 192.168.1.55 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:58.727321] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:58.829087] - [DOS] - Source IP: 192.168.1.101 | Details: Count: 8 in 60.0s
+[2025-11-01T18:45:58.829144] - [PORT_SCAN] - Source IP: 192.168.1.101 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:45:58.930706] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:58.981572] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 9 in 60.0s
+[2025-11-01T18:45:59.032219] - [DOS] - Source IP: 192.168.1.185 | Details: Count: 10 in 60.0s
+[2025-11-01T18:45:59.082828] - [DOS] - Source IP: 172.16.0.100 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:59.133895] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:59.184769] - [DOS] - Source IP: 192.168.1.119 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:59.235461] - [DOS] - Source IP: 192.168.1.138 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:59.387313] - [DOS] - Source IP: 192.168.1.187 | Details: Count: 6 in 60.0s
+[2025-11-01T18:45:59.641595] - [DOS] - Source IP: 192.168.1.55 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:59.793213] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 7 in 60.0s
+[2025-11-01T18:45:59.945318] - [DOS] - Source IP: 192.168.1.165 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:00.046235] - [DOS] - Source IP: 192.168.1.29 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:00.197410] - [DOS] - Source IP: 192.168.1.61 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:00.248293] - [DOS] - Source IP: 192.168.1.2 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:00.350347] - [DOS] - Source IP: 192.168.1.17 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:00.401143] - [DOS] - Source IP: 192.168.1.147 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:00.654091] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:00.704743] - [DOS] - Source IP: 192.168.1.104 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:00.755685] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:00.806407] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:00.806462] - [PORT_SCAN] - Source IP: 192.168.1.121 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:00.857099] - [DOS] - Source IP: 192.168.1.215 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:00.958174] - [DOS] - Source IP: 192.168.1.187 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:01.009066] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:01.161224] - [DOS] - Source IP: 192.168.1.78 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:01.161288] - [PORT_SCAN] - Source IP: 192.168.1.78 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:01.313145] - [DOS] - Source IP: 192.168.1.156 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:01.363741] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:01.616701] - [DOS] - Source IP: 192.168.1.243 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:01.667422] - [DOS] - Source IP: 192.168.1.128 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:01.820003] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:01.870655] - [DOS] - Source IP: 192.168.1.2 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:01.921104] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:01.971899] - [DOS] - Source IP: 192.168.1.85 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:02.226403] - [DOS] - Source IP: 192.168.1.244 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:02.327857] - [DOS] - Source IP: 192.168.1.4 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:02.429003] - [DOS] - Source IP: 192.168.1.30 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:02.479676] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:02.530131] - [DOS] - Source IP: 192.168.1.30 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:02.580966] - [DOS] - Source IP: 192.168.1.127 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:02.631740] - [DOS] - Source IP: 192.168.1.88 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:02.733103] - [DOS] - Source IP: 192.168.1.73 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:02.834628] - [DOS] - Source IP: 192.168.1.72 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:02.935933] - [DOS] - Source IP: 192.168.1.187 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:03.037211] - [DOS] - Source IP: 192.168.1.160 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:03.088710] - [DOS] - Source IP: 192.168.1.98 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:03.190080] - [DOS] - Source IP: 192.168.1.172 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:03.291264] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: SQL Injection, Payload: union select
+[2025-11-01T18:46:03.291337] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:03.291495] - [PORT_SCAN] - Source IP: 10.0.0.6 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:03.342064] - [DOS] - Source IP: 192.168.1.86 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:03.494223] - [DOS] - Source IP: 192.168.1.185 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:03.494282] - [PORT_SCAN] - Source IP: 192.168.1.185 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:03.595327] - [DOS] - Source IP: 192.168.1.156 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:03.697298] - [DOS] - Source IP: 192.168.1.47 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:04.000881] - [DOS] - Source IP: 192.168.1.24 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:04.000968] - [PORT_SCAN] - Source IP: 192.168.1.24 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:04.102123] - [DOS] - Source IP: 192.168.1.64 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:04.202876] - [DOS] - Source IP: 192.168.1.92 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:04.253273] - [DOS] - Source IP: 192.168.1.7 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:04.304011] - [DOS] - Source IP: 192.168.1.160 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:04.360461] - [DOS] - Source IP: 192.168.1.244 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:04.411052] - [DOS] - Source IP: 192.168.1.159 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:04.511894] - [DOS] - Source IP: 192.168.1.37 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:04.562649] - [DOS] - Source IP: 192.168.1.154 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:04.613224] - [DOS] - Source IP: 192.168.1.243 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:04.665360] - [DOS] - Source IP: 192.168.1.241 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:04.766480] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:04.817241] - [DOS] - Source IP: 192.168.1.158 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:04.867997] - [DOS] - Source IP: 192.168.1.250 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:04.918417] - [DOS] - Source IP: 192.168.1.133 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:04.968742] - [DOS] - Source IP: 192.168.1.101 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:05.222243] - [DOS] - Source IP: 192.168.1.224 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:05.272983] - [DOS] - Source IP: 192.168.1.200 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:05.323815] - [DOS] - Source IP: 192.168.1.72 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:05.425106] - [DOS] - Source IP: 192.168.1.112 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:05.476025] - [DOS] - Source IP: 192.168.1.162 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:05.728868] - [DOS] - Source IP: 192.168.1.229 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:05.779618] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:05.931381] - [DOS] - Source IP: 192.168.1.2 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:05.982074] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:06.032570] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:06.133949] - [DOS] - Source IP: 192.168.1.24 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:06.134025] - [PORT_SCAN] - Source IP: 192.168.1.24 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:46:06.285278] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:06.335950] - [DOS] - Source IP: 192.168.1.250 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:06.386601] - [DOS] - Source IP: 192.168.1.92 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:06.437041] - [DOS] - Source IP: 192.168.1.83 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:06.537977] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:06.538040] - [PORT_SCAN] - Source IP: 192.168.1.235 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:06.639071] - [DOS] - Source IP: 192.168.1.197 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:06.689552] - [SIGNATURE] - Source IP: 10.0.0.7 | Details: Attack: SQL Injection, Payload: ' OR 1=1 --
+[2025-11-01T18:46:06.841966] - [DOS] - Source IP: 192.168.1.128 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:06.892592] - [DOS] - Source IP: 192.168.1.224 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:06.943217] - [SIGNATURE] - Source IP: 10.0.0.7 | Details: Attack: PHP Code Injection, Payload: base64_decode
+[2025-11-01T18:46:07.043992] - [DOS] - Source IP: 192.168.1.147 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:07.094707] - [DOS] - Source IP: 192.168.1.7 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:07.145186] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:07.297004] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:07.348281] - [DOS] - Source IP: 192.168.1.195 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:07.550496] - [DOS] - Source IP: 192.168.1.221 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:07.601515] - [DOS] - Source IP: 192.168.1.99 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:07.754032] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:08.057956] - [DOS] - Source IP: 192.168.1.127 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:08.310904] - [DOS] - Source IP: 192.168.1.68 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:08.513262] - [DOS] - Source IP: 192.168.1.55 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:08.665380] - [DOS] - Source IP: 192.168.1.166 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:08.766856] - [DOS] - Source IP: 192.168.1.124 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:08.817320] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:08.868019] - [DOS] - Source IP: 192.168.1.69 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:08.919127] - [DOS] - Source IP: 192.168.1.83 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:08.969794] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:09.071021] - [DOS] - Source IP: 192.168.1.62 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:09.122310] - [DOS] - Source IP: 192.168.1.24 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:09.122370] - [PORT_SCAN] - Source IP: 192.168.1.24 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:46:09.172747] - [DOS] - Source IP: 192.168.1.69 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:09.425181] - [DOS] - Source IP: 192.168.1.34 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:09.576916] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:09.677840] - [DOS] - Source IP: 192.168.1.241 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:09.779762] - [DOS] - Source IP: 192.168.1.168 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:09.880758] - [DOS] - Source IP: 192.168.1.4 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:09.931186] - [DOS] - Source IP: 192.168.1.73 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:09.981655] - [DOS] - Source IP: 192.168.1.134 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:10.082873] - [DOS] - Source IP: 192.168.1.109 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:10.183901] - [DOS] - Source IP: 192.168.1.156 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:10.234688] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:10.285211] - [DOS] - Source IP: 192.168.1.245 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:10.335788] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:10.335869] - [PORT_SCAN] - Source IP: 192.168.1.121 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:10.386667] - [DOS] - Source IP: 192.168.1.209 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:10.538595] - [DOS] - Source IP: 192.168.1.62 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:10.690771] - [DOS] - Source IP: 192.168.1.195 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:10.792314] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:10.941770] - [DOS] - Source IP: 192.168.1.142 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:11.194978] - [DOS] - Source IP: 192.168.1.61 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:11.296285] - [DOS] - Source IP: 192.168.1.245 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:11.600105] - [DOS] - Source IP: 192.168.1.105 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:11.701595] - [DOS] - Source IP: 192.168.1.250 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:11.802904] - [DOS] - Source IP: 192.168.1.4 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:11.853349] - [DOS] - Source IP: 192.168.1.5 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:12.005166] - [DOS] - Source IP: 192.168.1.48 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:12.055793] - [DOS] - Source IP: 192.168.1.112 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:12.106389] - [PORT_SCAN] - Source IP: 172.16.0.101 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:12.358301] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:12.408714] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:12.510057] - [DOS] - Source IP: 192.168.1.29 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:12.610947] - [DOS] - Source IP: 192.168.1.149 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:12.661563] - [DOS] - Source IP: 192.168.1.250 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:12.661620] - [PORT_SCAN] - Source IP: 192.168.1.250 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:12.712090] - [DOS] - Source IP: 192.168.1.178 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:12.762796] - [DOS] - Source IP: 192.168.1.142 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:12.966154] - [DOS] - Source IP: 192.168.1.222 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:13.016488] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:13.016543] - [PORT_SCAN] - Source IP: 192.168.1.121 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:13.067075] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:13.117610] - [DOS] - Source IP: 192.168.1.172 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:13.168244] - [DOS] - Source IP: 192.168.1.209 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:13.269561] - [DOS] - Source IP: 192.168.1.85 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:13.421217] - [DOS] - Source IP: 192.168.1.62 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:13.522754] - [DOS] - Source IP: 192.168.1.62 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:13.522811] - [PORT_SCAN] - Source IP: 192.168.1.62 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:13.573474] - [DOS] - Source IP: 192.168.1.39 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:13.674929] - [DOS] - Source IP: 192.168.1.194 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:13.838234] - [DOS] - Source IP: 192.168.1.91 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:13.889114] - [DOS] - Source IP: 192.168.1.237 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:13.939737] - [DOS] - Source IP: 192.168.1.9 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:14.394468] - [DOS] - Source IP: 192.168.1.112 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:14.444946] - [DOS] - Source IP: 192.168.1.112 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:14.445022] - [PORT_SCAN] - Source IP: 192.168.1.112 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:14.597094] - [DOS] - Source IP: 192.168.1.166 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:14.647847] - [DOS] - Source IP: 192.168.1.229 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:14.850130] - [DOS] - Source IP: 192.168.1.22 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:15.052321] - [DOS] - Source IP: 192.168.1.48 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:15.154301] - [DOS] - Source IP: 192.168.1.61 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:15.204802] - [SIGNATURE] - Source IP: 10.0.0.7 | Details: Attack: SQL Injection, Payload: union select
+[2025-11-01T18:46:15.255409] - [DOS] - Source IP: 192.168.1.72 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:15.356483] - [DOS] - Source IP: 192.168.1.133 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:15.407202] - [DOS] - Source IP: 192.168.1.32 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:15.609290] - [DOS] - Source IP: 192.168.1.133 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:15.861627] - [DOS] - Source IP: 192.168.1.147 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:16.368485] - [DOS] - Source IP: 192.168.1.219 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:16.418979] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:16.520344] - [DOS] - Source IP: 192.168.1.228 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:16.570980] - [DOS] - Source IP: 192.168.1.7 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:16.621947] - [DOS] - Source IP: 192.168.1.148 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:16.672450] - [PORT_SCAN] - Source IP: 192.168.1.201 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:16.824154] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:16.924911] - [DOS] - Source IP: 192.168.1.45 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:17.026227] - [DOS] - Source IP: 192.168.1.209 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:17.128105] - [DOS] - Source IP: 192.168.1.37 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:17.178902] - [DOS] - Source IP: 192.168.1.132 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:17.229539] - [DOS] - Source IP: 192.168.1.200 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:17.481698] - [DOS] - Source IP: 192.168.1.190 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:17.532250] - [DOS] - Source IP: 192.168.1.34 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:17.633624] - [DOS] - Source IP: 192.168.1.231 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:17.684647] - [DOS] - Source IP: 192.168.1.128 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:17.735466] - [DOS] - Source IP: 192.168.1.48 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:17.988484] - [DOS] - Source IP: 192.168.1.159 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:18.139997] - [DOS] - Source IP: 192.168.1.98 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:18.190754] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:18.291473] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:18.595144] - [DOS] - Source IP: 192.168.1.72 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:18.645532] - [DOS] - Source IP: 192.168.1.64 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:18.746375] - [DOS] - Source IP: 192.168.1.1 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:18.796819] - [DOS] - Source IP: 192.168.1.138 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:18.847350] - [DOS] - Source IP: 192.168.1.92 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:18.948667] - [PORT_SCAN] - Source IP: 172.16.0.101 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:18.999225] - [DOS] - Source IP: 192.168.1.101 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:19.064834] - [DOS] - Source IP: 192.168.1.16 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:19.115762] - [DOS] - Source IP: 192.168.1.126 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:19.166446] - [DOS] - Source IP: 192.168.1.241 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:19.217072] - [DOS] - Source IP: 192.168.1.222 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:19.267722] - [DOS] - Source IP: 192.168.1.105 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:19.368599] - [DOS] - Source IP: 192.168.1.156 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:19.419361] - [DOS] - Source IP: 192.168.1.83 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:19.520447] - [DOS] - Source IP: 192.168.1.27 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:19.570900] - [DOS] - Source IP: 192.168.1.72 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:19.621428] - [DOS] - Source IP: 192.168.1.24 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:19.773585] - [DOS] - Source IP: 192.168.1.24 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:19.824751] - [DOS] - Source IP: 192.168.1.22 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:19.926418] - [DOS] - Source IP: 192.168.1.148 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:20.027951] - [DOS] - Source IP: 192.168.1.159 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:20.434307] - [DOS] - Source IP: 192.168.1.7 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:20.485069] - [DOS] - Source IP: 192.168.1.149 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:20.840278] - [DOS] - Source IP: 192.168.1.148 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:20.840370] - [PORT_SCAN] - Source IP: 192.168.1.148 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:20.941507] - [DOS] - Source IP: 192.168.1.162 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:21.045353] - [DOS] - Source IP: 192.168.1.8 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:21.198151] - [DOS] - Source IP: 172.16.0.100 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:21.350024] - [DOS] - Source IP: 192.168.1.7 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:21.704759] - [DOS] - Source IP: 192.168.1.51 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:21.755559] - [DOS] - Source IP: 192.168.1.2 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:21.856805] - [DOS] - Source IP: 192.168.1.185 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:21.958167] - [DOS] - Source IP: 192.168.1.124 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:22.059288] - [DOS] - Source IP: 192.168.1.30 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:22.161167] - [DOS] - Source IP: 192.168.1.193 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:22.313325] - [DOS] - Source IP: 192.168.1.190 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:22.516065] - [PORT_SCAN] - Source IP: 192.168.1.201 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:22.566997] - [DOS] - Source IP: 192.168.1.48 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:22.617819] - [DOS] - Source IP: 192.168.1.133 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:22.668579] - [DOS] - Source IP: 192.168.1.7 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:22.668663] - [PORT_SCAN] - Source IP: 192.168.1.7 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:22.719108] - [DOS] - Source IP: 192.168.1.173 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:22.769894] - [DOS] - Source IP: 192.168.1.176 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:22.820582] - [DOS] - Source IP: 192.168.1.250 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:22.871059] - [DOS] - Source IP: 192.168.1.104 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:22.972268] - [DOS] - Source IP: 192.168.1.112 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:23.022915] - [DOS] - Source IP: 192.168.1.231 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:23.073711] - [DOS] - Source IP: 192.168.1.105 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:23.175353] - [DOS] - Source IP: 192.168.1.9 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:23.276870] - [DOS] - Source IP: 192.168.1.30 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:23.327341] - [DOS] - Source IP: 192.168.1.146 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:23.531146] - [DOS] - Source IP: 172.16.0.101 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:23.582067] - [DOS] - Source IP: 192.168.1.53 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:23.632745] - [DOS] - Source IP: 192.168.1.37 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:23.784373] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: SQL Injection, Payload: union select
+[2025-11-01T18:46:23.784427] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:23.835117] - [DOS] - Source IP: 192.168.1.193 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:23.936923] - [DOS] - Source IP: 192.168.1.132 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:23.988321] - [DOS] - Source IP: 192.168.1.164 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:24.039943] - [DOS] - Source IP: 192.168.1.220 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:24.091301] - [DOS] - Source IP: 192.168.1.9 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:24.193364] - [DOS] - Source IP: 192.168.1.201 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:24.193452] - [PORT_SCAN] - Source IP: 192.168.1.201 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:46:24.397009] - [DOS] - Source IP: 192.168.1.223 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:24.447887] - [DOS] - Source IP: 192.168.1.42 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:24.498541] - [DOS] - Source IP: 192.168.1.7 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:24.498628] - [PORT_SCAN] - Source IP: 192.168.1.7 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:46:24.549398] - [DOS] - Source IP: 192.168.1.19 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:24.599927] - [DOS] - Source IP: 192.168.1.243 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:24.650671] - [DOS] - Source IP: 192.168.1.27 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:24.701187] - [DOS] - Source IP: 192.168.1.37 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:24.751872] - [DOS] - Source IP: 192.168.1.105 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:24.853289] - [DOS] - Source IP: 192.168.1.83 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:24.954982] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:25.055899] - [DOS] - Source IP: 192.168.1.32 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:25.157472] - [DOS] - Source IP: 192.168.1.154 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:25.360413] - [DOS] - Source IP: 192.168.1.147 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:25.513266] - [DOS] - Source IP: 192.168.1.34 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:25.664731] - [DOS] - Source IP: 192.168.1.83 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:25.715433] - [DOS] - Source IP: 192.168.1.148 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:25.715516] - [PORT_SCAN] - Source IP: 192.168.1.148 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:25.816806] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:25.867607] - [DOS] - Source IP: 192.168.1.156 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:25.969178] - [DOS] - Source IP: 192.168.1.22 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:26.121547] - [DOS] - Source IP: 192.168.1.101 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:26.172582] - [DOS] - Source IP: 192.168.1.197 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:26.223398] - [DOS] - Source IP: 192.168.1.167 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:26.324383] - [DOS] - Source IP: 192.168.1.3 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:26.375277] - [DOS] - Source IP: 192.168.1.95 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:26.426041] - [DOS] - Source IP: 192.168.1.98 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:26.476470] - [DOS] - Source IP: 192.168.1.160 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:26.780293] - [DOS] - Source IP: 192.168.1.231 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:26.881559] - [DOS] - Source IP: 192.168.1.190 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:26.932214] - [DOS] - Source IP: 192.168.1.45 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:27.033272] - [DOS] - Source IP: 192.168.1.148 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:27.033334] - [PORT_SCAN] - Source IP: 192.168.1.148 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:27.134863] - [DOS] - Source IP: 192.168.1.77 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:27.134930] - [PORT_SCAN] - Source IP: 192.168.1.77 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:27.337320] - [DOS] - Source IP: 192.168.1.221 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:27.641567] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:27.692491] - [DOS] - Source IP: 192.168.1.121 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:27.793923] - [DOS] - Source IP: 192.168.1.244 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:27.844851] - [SIGNATURE] - Source IP: 10.0.0.7 | Details: Attack: Code Injection, Payload: eval(
+[2025-11-01T18:46:27.895329] - [DOS] - Source IP: 192.168.1.149 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:27.996826] - [DOS] - Source IP: 192.168.1.162 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:28.047524] - [DOS] - Source IP: 192.168.1.229 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:28.149415] - [DOS] - Source IP: 192.168.1.194 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:28.200631] - [PORT_SCAN] - Source IP: 192.168.1.90 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:28.301789] - [DOS] - Source IP: 192.168.1.184 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:28.352283] - [DOS] - Source IP: 192.168.1.126 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:28.503840] - [DOS] - Source IP: 192.168.1.126 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:28.554200] - [DOS] - Source IP: 192.168.1.246 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:28.604618] - [DOS] - Source IP: 192.168.1.51 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:28.655769] - [DOS] - Source IP: 192.168.1.24 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:28.707350] - [DOS] - Source IP: 192.168.1.110 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:28.808514] - [DOS] - Source IP: 192.168.1.156 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:28.960197] - [DOS] - Source IP: 192.168.1.176 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:29.010760] - [DOS] - Source IP: 192.168.1.250 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:29.112458] - [DOS] - Source IP: 192.168.1.77 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:29.112529] - [PORT_SCAN] - Source IP: 192.168.1.77 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:46:29.213923] - [DOS] - Source IP: 192.168.1.245 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:29.315521] - [DOS] - Source IP: 192.168.1.211 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:29.366192] - [DOS] - Source IP: 172.16.0.101 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:29.467279] - [DOS] - Source IP: 192.168.1.14 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:29.871785] - [DOS] - Source IP: 192.168.1.101 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:29.922373] - [DOS] - Source IP: 192.168.1.86 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:29.972965] - [DOS] - Source IP: 192.168.1.232 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:30.023703] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:30.276405] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:30.478822] - [DOS] - Source IP: 192.168.1.48 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:30.529665] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:30.631093] - [DOS] - Source IP: 192.168.1.154 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:30.732027] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:30.935097] - [SIGNATURE] - Source IP: 10.0.0.5 | Details: Attack: SQL Injection, Payload: union select
+[2025-11-01T18:46:30.935163] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:30.986301] - [DOS] - Source IP: 192.168.1.134 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:31.037749] - [DOS] - Source IP: 192.168.1.162 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:31.088552] - [DOS] - Source IP: 192.168.1.91 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:31.189794] - [DOS] - Source IP: 192.168.1.149 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:31.241618] - [DOS] - Source IP: 192.168.1.34 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:31.393218] - [SIGNATURE] - Source IP: 10.0.0.5 | Details: Attack: SQL Injection, Payload: DROP TABLE
+[2025-11-01T18:46:31.393281] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:31.393307] - [PORT_SCAN] - Source IP: 10.0.0.5 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:31.443668] - [DOS] - Source IP: 192.168.1.174 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:31.494471] - [DOS] - Source IP: 192.168.1.127 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:31.545527] - [DOS] - Source IP: 192.168.1.101 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:31.596542] - [DOS] - Source IP: 192.168.1.209 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:31.717691] - [DOS] - Source IP: 192.168.1.24 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:31.922459] - [DOS] - Source IP: 192.168.1.98 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:32.175753] - [DOS] - Source IP: 192.168.1.85 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:32.226333] - [DOS] - Source IP: 192.168.1.129 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:32.328877] - [DOS] - Source IP: 192.168.1.127 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:32.431114] - [DOS] - Source IP: 192.168.1.48 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:32.482000] - [DOS] - Source IP: 192.168.1.232 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:32.532356] - [DOS] - Source IP: 192.168.1.83 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:32.583714] - [DOS] - Source IP: 192.168.1.109 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:32.634180] - [DOS] - Source IP: 192.168.1.53 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:32.684693] - [DOS] - Source IP: 192.168.1.154 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:32.786124] - [DOS] - Source IP: 192.168.1.194 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:32.836793] - [DOS] - Source IP: 192.168.1.125 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:32.836867] - [PORT_SCAN] - Source IP: 192.168.1.125 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:33.090120] - [DOS] - Source IP: 192.168.1.125 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:33.090191] - [PORT_SCAN] - Source IP: 192.168.1.125 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:46:33.241904] - [DOS] - Source IP: 192.168.1.105 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:33.292765] - [DOS] - Source IP: 192.168.1.178 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:33.394582] - [DOS] - Source IP: 192.168.1.8 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:33.445566] - [DOS] - Source IP: 192.168.1.105 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:33.496523] - [DOS] - Source IP: 192.168.1.79 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:33.648727] - [DOS] - Source IP: 192.168.1.102 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:33.699441] - [DOS] - Source IP: 192.168.1.219 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:33.800387] - [DOS] - Source IP: 192.168.1.72 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:33.850823] - [DOS] - Source IP: 192.168.1.111 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:34.002040] - [DOS] - Source IP: 192.168.1.5 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:34.052903] - [DOS] - Source IP: 192.168.1.110 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:34.052965] - [PORT_SCAN] - Source IP: 192.168.1.110 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:34.103761] - [DOS] - Source IP: 192.168.1.127 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:34.204886] - [DOS] - Source IP: 172.16.0.100 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:34.356309] - [DOS] - Source IP: 192.168.1.192 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:34.406981] - [DOS] - Source IP: 192.168.1.69 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:34.711575] - [DOS] - Source IP: 192.168.1.234 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:34.864019] - [DOS] - Source IP: 192.168.1.24 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:34.965382] - [DOS] - Source IP: 192.168.1.143 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:35.117348] - [DOS] - Source IP: 192.168.1.162 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:35.168244] - [DOS] - Source IP: 192.168.1.142 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:35.269715] - [SIGNATURE] - Source IP: 10.0.0.7 | Details: Attack: PHP Code Injection, Payload: base64_decode
+[2025-11-01T18:46:35.371682] - [DOS] - Source IP: 192.168.1.3 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:35.422134] - [DOS] - Source IP: 192.168.1.35 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:35.523369] - [DOS] - Source IP: 192.168.1.5 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:35.826892] - [DOS] - Source IP: 192.168.1.32 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:35.877636] - [DOS] - Source IP: 172.16.0.101 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:35.928834] - [DOS] - Source IP: 192.168.1.146 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:36.030845] - [DOS] - Source IP: 192.168.1.211 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:36.081922] - [DOS] - Source IP: 192.168.1.85 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:36.133444] - [DOS] - Source IP: 192.168.1.162 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:36.133515] - [PORT_SCAN] - Source IP: 192.168.1.162 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:36.183910] - [DOS] - Source IP: 192.168.1.194 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:36.386362] - [DOS] - Source IP: 192.168.1.110 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:36.386430] - [PORT_SCAN] - Source IP: 192.168.1.110 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:46:36.489036] - [DOS] - Source IP: 192.168.1.110 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:36.489102] - [PORT_SCAN] - Source IP: 192.168.1.110 | Details: Unique Ports: 6 in 10.0s
+[2025-11-01T18:46:36.590626] - [DOS] - Source IP: 192.168.1.223 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:36.794560] - [DOS] - Source IP: 192.168.1.149 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:36.845595] - [DOS] - Source IP: 192.168.1.9 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:36.946662] - [SIGNATURE] - Source IP: 10.0.0.5 | Details: Attack: SQL Injection, Payload: DROP TABLE
+[2025-11-01T18:46:36.946716] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:36.946741] - [PORT_SCAN] - Source IP: 10.0.0.5 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:46:36.997355] - [DOS] - Source IP: 192.168.1.215 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:37.048174] - [DOS] - Source IP: 192.168.1.99 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:37.149384] - [DOS] - Source IP: 192.168.1.105 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:37.199882] - [DOS] - Source IP: 192.168.1.24 | Details: Count: 12 in 60.0s
+[2025-11-01T18:46:37.199944] - [PORT_SCAN] - Source IP: 192.168.1.24 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:37.402370] - [DOS] - Source IP: 192.168.1.234 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:37.656198] - [DOS] - Source IP: 192.168.1.122 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:37.706960] - [DOS] - Source IP: 192.168.1.247 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:37.859837] - [DOS] - Source IP: 192.168.1.37 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:37.910544] - [DOS] - Source IP: 192.168.1.142 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:38.315996] - [DOS] - Source IP: 192.168.1.37 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:38.469117] - [DOS] - Source IP: 192.168.1.148 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:38.671915] - [DOS] - Source IP: 192.168.1.250 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:38.823873] - [DOS] - Source IP: 192.168.1.122 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:38.874281] - [DOS] - Source IP: 192.168.1.232 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:38.975666] - [DOS] - Source IP: 192.168.1.112 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:39.026324] - [DOS] - Source IP: 192.168.1.220 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:39.076723] - [DOS] - Source IP: 192.168.1.3 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:39.177905] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:39.329737] - [DOS] - Source IP: 192.168.1.111 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:39.481625] - [DOS] - Source IP: 192.168.1.90 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:39.583572] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: PHP Code Injection, Payload: base64_decode
+[2025-11-01T18:46:39.583634] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:39.787383] - [DOS] - Source IP: 192.168.1.209 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:39.838514] - [DOS] - Source IP: 192.168.1.38 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:39.889406] - [DOS] - Source IP: 192.168.1.233 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:39.940374] - [DOS] - Source IP: 192.168.1.99 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:40.042106] - [DOS] - Source IP: 192.168.1.67 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:40.092638] - [DOS] - Source IP: 192.168.1.142 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:40.295025] - [DOS] - Source IP: 192.168.1.142 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:40.295090] - [PORT_SCAN] - Source IP: 192.168.1.142 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:40.598470] - [DOS] - Source IP: 192.168.1.49 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:40.649157] - [DOS] - Source IP: 192.168.1.141 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:40.750001] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:40.850855] - [DOS] - Source IP: 192.168.1.211 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:40.952299] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:41.003187] - [DOS] - Source IP: 192.168.1.5 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:41.156180] - [DOS] - Source IP: 192.168.1.122 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:41.207669] - [DOS] - Source IP: 192.168.1.175 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:41.333044] - [DOS] - Source IP: 192.168.1.244 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:41.434553] - [DOS] - Source IP: 192.168.1.147 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:41.485620] - [DOS] - Source IP: 192.168.1.98 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:41.638312] - [DOS] - Source IP: 192.168.1.62 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:41.689806] - [DOS] - Source IP: 192.168.1.205 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:41.791124] - [PORT_SCAN] - Source IP: 192.168.1.179 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:41.841545] - [DOS] - Source IP: 192.168.1.146 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:42.144561] - [SIGNATURE] - Source IP: 10.0.0.7 | Details: Attack: PHP Code Injection, Payload: base64_decode
+[2025-11-01T18:46:42.144619] - [DOS] - Source IP: 10.0.0.7 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:42.296707] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:42.347190] - [DOS] - Source IP: 192.168.1.143 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:42.498978] - [DOS] - Source IP: 192.168.1.148 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:42.549677] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:42.600242] - [DOS] - Source IP: 192.168.1.154 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:42.804045] - [DOS] - Source IP: 192.168.1.35 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:42.905780] - [DOS] - Source IP: 192.168.1.126 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:43.058049] - [DOS] - Source IP: 192.168.1.190 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:43.109136] - [DOS] - Source IP: 192.168.1.186 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:43.211363] - [DOS] - Source IP: 192.168.1.90 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:43.262092] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:43.312489] - [DOS] - Source IP: 192.168.1.126 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:43.414429] - [DOS] - Source IP: 192.168.1.209 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:43.566667] - [DOS] - Source IP: 192.168.1.142 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:43.566740] - [PORT_SCAN] - Source IP: 192.168.1.142 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:46:43.718267] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:43.820116] - [DOS] - Source IP: 192.168.1.68 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:43.870820] - [DOS] - Source IP: 192.168.1.127 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:44.174366] - [DOS] - Source IP: 192.168.1.102 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:44.326593] - [DOS] - Source IP: 192.168.1.1 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:44.377021] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:44.428174] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:44.428244] - [PORT_SCAN] - Source IP: 192.168.1.54 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:44.478931] - [DOS] - Source IP: 192.168.1.146 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:44.529901] - [DOS] - Source IP: 192.168.1.79 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:44.631356] - [DOS] - Source IP: 192.168.1.61 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:44.682228] - [DOS] - Source IP: 192.168.1.109 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:44.732858] - [DOS] - Source IP: 192.168.1.32 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:44.783423] - [DOS] - Source IP: 192.168.1.38 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:44.783488] - [PORT_SCAN] - Source IP: 192.168.1.38 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:44.834181] - [DOS] - Source IP: 192.168.1.77 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:44.885066] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:44.935410] - [DOS] - Source IP: 192.168.1.77 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:45.036514] - [DOS] - Source IP: 192.168.1.185 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:45.086986] - [DOS] - Source IP: 192.168.1.146 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:45.087054] - [PORT_SCAN] - Source IP: 192.168.1.146 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:45.137531] - [DOS] - Source IP: 192.168.1.192 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:45.187925] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:45.187990] - [PORT_SCAN] - Source IP: 192.168.1.6 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:45.290059] - [DOS] - Source IP: 192.168.1.116 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:45.344454] - [DOS] - Source IP: 192.168.1.30 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:45.395416] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:45.497211] - [DOS] - Source IP: 192.168.1.24 | Details: Count: 13 in 60.0s
+[2025-11-01T18:46:45.547957] - [DOS] - Source IP: 192.168.1.192 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:45.648681] - [DOS] - Source IP: 192.168.1.56 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:45.699377] - [DOS] - Source IP: 192.168.1.63 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:45.953255] - [DOS] - Source IP: 192.168.1.101 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:46.054591] - [DOS] - Source IP: 192.168.1.8 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:46.105009] - [DOS] - Source IP: 192.168.1.50 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:46.105074] - [PORT_SCAN] - Source IP: 192.168.1.50 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:46.155761] - [DOS] - Source IP: 192.168.1.184 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:46.206506] - [SIGNATURE] - Source IP: 10.0.0.5 | Details: Attack: SQL Injection, Payload: union select
+[2025-11-01T18:46:46.206564] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:46.206596] - [PORT_SCAN] - Source IP: 10.0.0.5 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:46.257264] - [DOS] - Source IP: 192.168.1.90 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:46.257340] - [PORT_SCAN] - Source IP: 192.168.1.90 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:46.358721] - [DOS] - Source IP: 192.168.1.137 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:46.358806] - [PORT_SCAN] - Source IP: 192.168.1.137 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:46.511221] - [DOS] - Source IP: 192.168.1.71 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:46.562191] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:46.917557] - [DOS] - Source IP: 192.168.1.62 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:46.968364] - [DOS] - Source IP: 192.168.1.146 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:46.968436] - [PORT_SCAN] - Source IP: 192.168.1.146 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:47.019101] - [DOS] - Source IP: 192.168.1.193 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:47.069901] - [DOS] - Source IP: 192.168.1.4 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:47.171067] - [DOS] - Source IP: 192.168.1.42 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:47.221534] - [DOS] - Source IP: 192.168.1.148 | Details: Count: 12 in 60.0s
+[2025-11-01T18:46:47.272234] - [DOS] - Source IP: 192.168.1.53 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:47.373613] - [DOS] - Source IP: 192.168.1.159 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:47.424767] - [DOS] - Source IP: 192.168.1.154 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:47.526105] - [DOS] - Source IP: 192.168.1.51 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:47.576762] - [DOS] - Source IP: 192.168.1.102 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:47.738593] - [DOS] - Source IP: 192.168.1.176 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:47.991795] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:48.042647] - [DOS] - Source IP: 192.168.1.146 | Details: Count: 12 in 60.0s
+[2025-11-01T18:46:48.042735] - [PORT_SCAN] - Source IP: 192.168.1.146 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:46:48.194083] - [DOS] - Source IP: 192.168.1.132 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:48.346127] - [DOS] - Source IP: 192.168.1.7 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:48.447459] - [DOS] - Source IP: 192.168.1.109 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:48.548885] - [DOS] - Source IP: 192.168.1.70 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:48.650744] - [DOS] - Source IP: 192.168.1.101 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:48.701760] - [DOS] - Source IP: 192.168.1.212 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:48.803721] - [DOS] - Source IP: 192.168.1.149 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:48.854403] - [DOS] - Source IP: 192.168.1.61 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:48.905336] - [DOS] - Source IP: 192.168.1.111 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:49.006716] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:49.208721] - [DOS] - Source IP: 192.168.1.243 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:49.259408] - [DOS] - Source IP: 192.168.1.141 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:49.411455] - [DOS] - Source IP: 192.168.1.11 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:49.462305] - [DOS] - Source IP: 192.168.1.112 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:49.512780] - [DOS] - Source IP: 192.168.1.187 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:49.614031] - [DOS] - Source IP: 192.168.1.149 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:49.765876] - [DOS] - Source IP: 192.168.1.141 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:49.917360] - [DOS] - Source IP: 192.168.1.8 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:50.272128] - [DOS] - Source IP: 192.168.1.91 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:50.373160] - [DOS] - Source IP: 192.168.1.77 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:50.575205] - [DOS] - Source IP: 192.168.1.209 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:50.929142] - [DOS] - Source IP: 192.168.1.58 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:51.030147] - [DOS] - Source IP: 192.168.1.67 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:51.080995] - [DOS] - Source IP: 192.168.1.194 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:51.131595] - [DOS] - Source IP: 192.168.1.56 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:51.232738] - [DOS] - Source IP: 192.168.1.76 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:51.283409] - [DOS] - Source IP: 192.168.1.90 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:51.334003] - [DOS] - Source IP: 192.168.1.52 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:51.435195] - [DOS] - Source IP: 192.168.1.24 | Details: Count: 14 in 60.0s
+[2025-11-01T18:46:51.586775] - [DOS] - Source IP: 192.168.1.233 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:51.738579] - [DOS] - Source IP: 192.168.1.192 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:51.789362] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:51.839986] - [DOS] - Source IP: 192.168.1.171 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:51.890839] - [DOS] - Source IP: 192.168.1.244 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:52.042857] - [DOS] - Source IP: 192.168.1.156 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:52.145282] - [DOS] - Source IP: 192.168.1.71 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:52.196132] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:52.348572] - [DOS] - Source IP: 192.168.1.140 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:52.399370] - [DOS] - Source IP: 192.168.1.157 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:52.450563] - [DOS] - Source IP: 192.168.1.176 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:52.501235] - [DOS] - Source IP: 192.168.1.50 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:52.602890] - [DOS] - Source IP: 192.168.1.211 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:52.704293] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:52.704345] - [PORT_SCAN] - Source IP: 192.168.1.183 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:52.805796] - [DOS] - Source IP: 192.168.1.148 | Details: Count: 13 in 60.0s
+[2025-11-01T18:46:52.907077] - [DOS] - Source IP: 192.168.1.241 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:52.957436] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: SQL Injection, Payload: DROP TABLE
+[2025-11-01T18:46:52.957492] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:53.007902] - [DOS] - Source IP: 192.168.1.2 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:53.058666] - [DOS] - Source IP: 192.168.1.74 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:53.109320] - [DOS] - Source IP: 192.168.1.77 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:53.109387] - [PORT_SCAN] - Source IP: 192.168.1.77 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:53.211121] - [DOS] - Source IP: 192.168.1.211 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:53.312183] - [DOS] - Source IP: 192.168.1.62 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:53.362755] - [DOS] - Source IP: 192.168.1.55 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:53.464156] - [DOS] - Source IP: 192.168.1.153 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:53.514580] - [DOS] - Source IP: 192.168.1.34 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:53.615931] - [DOS] - Source IP: 192.168.1.19 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:53.666486] - [DOS] - Source IP: 192.168.1.70 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:53.768666] - [DOS] - Source IP: 192.168.1.134 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:54.072303] - [DOS] - Source IP: 192.168.1.148 | Details: Count: 14 in 60.0s
+[2025-11-01T18:46:54.122728] - [DOS] - Source IP: 192.168.1.130 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:54.173897] - [DOS] - Source IP: 192.168.1.101 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:54.224458] - [DOS] - Source IP: 192.168.1.62 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:54.275037] - [DOS] - Source IP: 192.168.1.7 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:54.325526] - [DOS] - Source IP: 192.168.1.30 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:54.427111] - [DOS] - Source IP: 192.168.1.183 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:54.427176] - [PORT_SCAN] - Source IP: 192.168.1.183 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:54.477864] - [DOS] - Source IP: 192.168.1.109 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:54.630249] - [DOS] - Source IP: 192.168.1.90 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:54.731913] - [DOS] - Source IP: 192.168.1.132 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:54.782519] - [DOS] - Source IP: 192.168.1.90 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:54.782616] - [PORT_SCAN] - Source IP: 192.168.1.90 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:54.884417] - [DOS] - Source IP: 192.168.1.3 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:54.985917] - [DOS] - Source IP: 192.168.1.147 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:55.036465] - [DOS] - Source IP: 192.168.1.134 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:55.036547] - [PORT_SCAN] - Source IP: 192.168.1.134 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:55.086966] - [DOS] - Source IP: 192.168.1.233 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:55.291035] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:55.341778] - [DOS] - Source IP: 192.168.1.184 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:55.392585] - [DOS] - Source IP: 192.168.1.198 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:55.443451] - [DOS] - Source IP: 192.168.1.167 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:55.595712] - [DOS] - Source IP: 192.168.1.71 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:55.696714] - [DOS] - Source IP: 192.168.1.193 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:55.747593] - [DOS] - Source IP: 10.0.0.7 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:55.798172] - [DOS] - Source IP: 192.168.1.167 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:55.798230] - [PORT_SCAN] - Source IP: 192.168.1.167 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:55.914881] - [DOS] - Source IP: 192.168.1.30 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:56.015914] - [DOS] - Source IP: 192.168.1.96 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:56.066874] - [DOS] - Source IP: 192.168.1.67 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:56.117449] - [DOS] - Source IP: 192.168.1.185 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:56.168066] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:56.320207] - [DOS] - Source IP: 192.168.1.74 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:56.371012] - [DOS] - Source IP: 192.168.1.52 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:56.523297] - [DOS] - Source IP: 192.168.1.212 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:56.574614] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:56.625625] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: SQL Injection, Payload: DROP TABLE
+[2025-11-01T18:46:56.625674] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:56.828228] - [DOS] - Source IP: 192.168.1.116 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:56.879367] - [DOS] - Source IP: 192.168.1.74 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:56.879445] - [PORT_SCAN] - Source IP: 192.168.1.74 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:57.030775] - [DOS] - Source IP: 192.168.1.110 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:57.081833] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:57.132915] - [DOS] - Source IP: 192.168.1.102 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:57.183744] - [DOS] - Source IP: 192.168.1.171 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:57.487400] - [DOS] - Source IP: 192.168.1.250 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:57.588435] - [DOS] - Source IP: 192.168.1.35 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:57.639143] - [DOS] - Source IP: 192.168.1.3 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:57.790877] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: PHP Code Injection, Payload: base64_decode
+[2025-11-01T18:46:57.790933] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:57.790954] - [PORT_SCAN] - Source IP: 10.0.0.6 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:57.841358] - [DOS] - Source IP: 172.16.0.99 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:57.993275] - [DOS] - Source IP: 192.168.1.247 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:58.094513] - [DOS] - Source IP: 192.168.1.56 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:58.145571] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:58.196169] - [DOS] - Source IP: 192.168.1.148 | Details: Count: 14 in 60.0s
+[2025-11-01T18:46:58.297669] - [DOS] - Source IP: 192.168.1.56 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:58.399052] - [DOS] - Source IP: 192.168.1.189 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:58.449793] - [DOS] - Source IP: 192.168.1.63 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:58.602192] - [DOS] - Source IP: 192.168.1.141 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:58.703005] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 10 in 60.0s
+[2025-11-01T18:46:58.905049] - [DOS] - Source IP: 192.168.1.54 | Details: Count: 11 in 60.0s
+[2025-11-01T18:46:58.905132] - [PORT_SCAN] - Source IP: 192.168.1.54 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:46:59.006294] - [DOS] - Source IP: 192.168.1.9 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:59.057156] - [DOS] - Source IP: 192.168.1.52 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:59.107939] - [DOS] - Source IP: 192.168.1.193 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:59.158787] - [DOS] - Source IP: 192.168.1.247 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:59.209648] - [DOS] - Source IP: 192.168.1.190 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:59.411801] - [DOS] - Source IP: 192.168.1.190 | Details: Count: 7 in 60.0s
+[2025-11-01T18:46:59.462863] - [DOS] - Source IP: 192.168.1.27 | Details: Count: 6 in 60.0s
+[2025-11-01T18:46:59.513505] - [DOS] - Source IP: 172.16.0.101 | Details: Count: 9 in 60.0s
+[2025-11-01T18:46:59.564312] - [DOS] - Source IP: 192.168.1.53 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:59.767293] - [DOS] - Source IP: 192.168.1.126 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:59.817849] - [DOS] - Source IP: 192.168.1.167 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:59.817921] - [PORT_SCAN] - Source IP: 192.168.1.167 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:46:59.918964] - [DOS] - Source IP: 192.168.1.149 | Details: Count: 8 in 60.0s
+[2025-11-01T18:46:59.969761] - [DOS] - Source IP: 192.168.1.149 | Details: Count: 9 in 60.0s
+[2025-11-01T18:47:00.020507] - [DOS] - Source IP: 192.168.1.24 | Details: Count: 14 in 60.0s
+[2025-11-01T18:47:00.071366] - [DOS] - Source IP: 192.168.1.143 | Details: Count: 6 in 60.0s
+[2025-11-01T18:47:00.172542] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 8 in 60.0s
+[2025-11-01T18:47:00.172609] - [PORT_SCAN] - Source IP: 192.168.1.118 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:47:00.223184] - [DOS] - Source IP: 192.168.1.16 | Details: Count: 6 in 60.0s
+[2025-11-01T18:47:00.273659] - [DOS] - Source IP: 192.168.1.184 | Details: Count: 8 in 60.0s
+[2025-11-01T18:47:00.324485] - [DOS] - Source IP: 192.168.1.90 | Details: Count: 12 in 60.0s
+[2025-11-01T18:47:00.324543] - [PORT_SCAN] - Source IP: 192.168.1.90 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:47:00.425646] - [DOS] - Source IP: 192.168.1.235 | Details: Count: 6 in 60.0s
+[2025-11-01T18:47:00.578240] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: SQL Injection, Payload: union select
+[2025-11-01T18:47:00.578318] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 8 in 60.0s
+[2025-11-01T18:47:00.628969] - [DOS] - Source IP: 192.168.1.218 | Details: Count: 6 in 60.0s
+[2025-11-01T18:47:00.730521] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 9 in 60.0s
+[2025-11-01T18:47:00.730587] - [PORT_SCAN] - Source IP: 10.0.0.6 | Details: Unique Ports: 4 in 10.0s
+[2025-11-01T18:47:00.884936] - [DOS] - Source IP: 192.168.1.6 | Details: Count: 7 in 60.0s
+[2025-11-01T18:47:00.986016] - [DOS] - Source IP: 192.168.1.186 | Details: Count: 6 in 60.0s
+[2025-11-01T18:47:01.036746] - [DOS] - Source IP: 192.168.1.101 | Details: Count: 9 in 60.0s
+[2025-11-01T18:47:01.137967] - [SIGNATURE] - Source IP: 10.0.0.5 | Details: Attack: PHP Code Injection, Payload: base64_decode
+[2025-11-01T18:47:01.138023] - [DOS] - Source IP: 10.0.0.5 | Details: Count: 9 in 60.0s
+[2025-11-01T18:47:01.188772] - [DOS] - Source IP: 192.168.1.110 | Details: Count: 10 in 60.0s
+[2025-11-01T18:47:01.290731] - [SIGNATURE] - Source IP: 10.0.0.6 | Details: Attack: SQL Injection, Payload: union select
+[2025-11-01T18:47:01.290797] - [DOS] - Source IP: 10.0.0.6 | Details: Count: 10 in 60.0s
+[2025-11-01T18:47:01.290839] - [PORT_SCAN] - Source IP: 10.0.0.6 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:47:01.341313] - [DOS] - Source IP: 192.168.1.48 | Details: Count: 7 in 60.0s
+[2025-11-01T18:47:01.544036] - [DOS] - Source IP: 192.168.1.118 | Details: Count: 9 in 60.0s
+[2025-11-01T18:47:01.544095] - [PORT_SCAN] - Source IP: 192.168.1.118 | Details: Unique Ports: 5 in 10.0s
+[2025-11-01T18:47:01.695881] - [DOS] - Source IP: 192.168.1.198 | Details: Count: 7 in 60.0s
+[2025-11-01T18:47:01.796549] - [DOS] - Source IP: 192.168.1.137 | Details: Count: 7 in 60.0s
+[2025-11-01T18:47:01.897664] - [DOS] - Source IP: 192.168.1.184 | Details: Count: 9 in 60.0s
+[2025-11-01T18:47:01.948145] - [DOS] - Source IP: 192.168.1.125 | Details: Count: 6 in 60.0s
+[2025-11-01T18:47:02.048931] - [DOS] - Source IP: 192.168.1.9 | Details: Count: 7 in 60.0s
+[2025-11-01T18:47:02.099981] - [DOS] - Source IP: 192.168.1.247 | Details: Count: 7 in 60.0s
+[2025-11-01T18:47:02.150607] - [DOS] - Source IP: 192.168.1.130 | Details: Count: 7 in 60.0s
+[2025-11-01T18:47:02.251998] - [DOS] - Source IP: 192.168.1.192 | Details: Count: 8 in 60.0s
+[2025-11-01T18:47:02.352695] - [DOS] - Source IP: 192.168.1.142 | Details: Count: 9 in 60.0s
+[2025-11-01T18:47:02.454048] - [DOS] - Source IP: 192.168.1.22 | Details: Count: 6 in 60.0s

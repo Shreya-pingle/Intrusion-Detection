@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-Time IDS Dashboard</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background-color: #f4f7f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
+        .container {
+            width: 100%;
+            max-width: 900px;
+            background-color: #fff;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        }
+        h1 {
+            color: #1a253c;
+            border-bottom: 2px solid #eef2f7;
+            padding-bottom: 10px;
+            margin-top: 0;
+        }
+        .controls, .status-bar {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        #startButton {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        #startButton:disabled {
+            background-color: #a0cfff;
+            cursor: not-allowed;
+        }
+        #startButton:hover:not(:disabled) {
+            background-color: #0056b3;
+        }
+        #status {
+            font-weight: bold;
+        }
+        .progress-bar-container {
+            width: 100%;
+            background-color: #e9ecef;
+            border-radius: 5px;
+            overflow: hidden;
+            height: 25px;
+        }
+        .progress-bar {
+            width: 0%;
+            height: 100%;
+            background-color: #28a745;
+            text-align: center;
+            line-height: 25px;
+            color: white;
+            transition: width 0.4s ease;
+        }
+        #alerts {
+            margin-top: 20px;
+            height: 400px;
+            overflow-y: auto;
+            border: 1px solid #ddd;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #fafafa;
+        }
+        .alert {
+            padding: 8px;
+            border-bottom: 1px solid #eee;
+            font-family: "Courier New", Courier, monospace;
+            font-size: 14px;
+        }
+        .alert.signature { color: #dc3545; }
+        .alert.dos { color: #fd7e14; }
+        .alert.port_scan { color: #ffc107; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🛡️ Real-Time IDS Dashboard</h1>
+        <div class="controls">
+            <button id="startButton">Start Simulation</button>
+            <div id="status">Status: IDLE</div>
+        </div>
+        <div class="status-bar">
+            <span id="progress-text">Processed: 0 / 0</span>
+            <span id="alerts-count">Alerts: 0</span>
+        </div>
+        <div class="progress-bar-container">
+            <div class="progress-bar" id="progressBar">0%</div>
+        </div>
+        <h2>Live Alerts</h2>
+        <div id="alerts"></div>
+    </div>
+
+    <script>
+        const startButton = document.getElementById('startButton');
+        const statusDiv = document.getElementById('status');
+        const progressBar = document.getElementById('progressBar');
+        const progressText = document.getElementById('progress-text');
+        const alertsCount = document.getElementById('alerts-count');
+        const alertsDiv = document.getElementById('alerts');
+
+        startButton.addEventListener('click', () => {
+            fetch('/start', { method: 'POST' })
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data.message);
+                    startButton.disabled = true;
+                    statusDiv.textContent = 'Status: STARTING...';
+                });
+        });
+
+        const eventSource = new EventSource('/stream');
+
+        eventSource.onmessage = function(event) {
+            const data = JSON.parse(event.data);
+
+            if (data.type === 'status') {
+                statusDiv.textContent = `Status: ${data.status}`;
+                if (data.status === 'FINISHED' || data.status === 'ERROR') {
+                    startButton.disabled = false;
+                }
+            } else if (data.type === 'progress') {
+                const percentage = (data.processed / data.total * 100).toFixed(2);
+                progressBar.style.width = percentage + '%';
+                progressBar.textContent = percentage + '%';
+                progressText.textContent = `Processed: ${data.processed} / ${data.total}`;
+                alertsCount.textContent = `Alerts: ${data.alerts}`;
+            } else if (data.type === 'alert') {
+                const alert = data.data;
+                const alertEl = document.createElement('div');
+                alertEl.className = `alert ${alert.type}`;
+                alertEl.textContent = `🚨 [${alert.type.toUpperCase()}] Source: ${alert.src_ip} - Details: ${JSON.stringify(alert)}`;
+                alertsDiv.appendChild(alertEl);
+                alertsDiv.scrollTop = alertsDiv.scrollHeight;
+            }
+        };
+    </script>
+</body>
+</html>
